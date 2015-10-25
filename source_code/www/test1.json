@@ -1,0 +1,6155 @@
+{
+  "Cluster0":
+  { 
+    "id":"0",
+    "Document":
+      [
+        {          "Word":"aims",
+          "Frequency":"380"
+        },
+        {          "Word":"keep",
+          "Frequency":"382"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"490"
+        },
+        {          "Word":"onethird",
+          "Frequency":"380"
+        },
+        {          "Word":"pfizer",
+          "Frequency":"382"
+        },
+        {          "Word":"pie",
+          "Frequency":"380"
+        }      ]   },  "Cluster1":
+  { 
+    "id":"1",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"220"
+        },
+        {          "Word":"depression",
+          "Frequency":"138"
+        },
+        {          "Word":"help",
+          "Frequency":"153"
+        }      ]   },  "Cluster2":
+  { 
+    "id":"2",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"31"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"24"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"22"
+        }      ]   },  "Cluster3":
+  { 
+    "id":"3",
+    "Document":
+      [
+        {          "Word":"caduet",
+          "Frequency":"120"
+        },
+        {          "Word":"effects",
+          "Frequency":"196"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"180"
+        },
+        {          "Word":"side",
+          "Frequency":"164"
+        }      ]   },  "Cluster4":
+  { 
+    "id":"4",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"86"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"117"
+        }      ]   },  "Cluster5":
+  { 
+    "id":"5",
+    "Document":
+      [
+        {          "Word":"lipitor",
+          "Frequency":"155"
+        },
+        {          "Word":"lovastatin",
+          "Frequency":"100"
+        }      ]   },  "Cluster6":
+  { 
+    "id":"6",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"86"
+        },
+        {          "Word":"cancer",
+          "Frequency":"76"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"78"
+        },
+        {          "Word":"generic",
+          "Frequency":"94"
+        },
+        {          "Word":"januvia",
+          "Frequency":"142"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"109"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"129"
+        },
+        {          "Word":"online",
+          "Frequency":"71"
+        }      ]   },  "Cluster7":
+  { 
+    "id":"7",
+    "Document":
+      [
+        {          "Word":"januvia",
+          "Frequency":"24"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"24"
+        },
+        {          "Word":"online",
+          "Frequency":"38"
+        }      ]   },  "Cluster8":
+  { 
+    "id":"8",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"62"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"97"
+        }      ]   },  "Cluster9":
+  { 
+    "id":"9",
+    "Document":
+      [
+        {          "Word":"achat",
+          "Frequency":"47"
+        },
+        {          "Word":"acheter",
+          "Frequency":"42"
+        },
+        {          "Word":"commander",
+          "Frequency":"38"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"44"
+        },
+        {          "Word":"singulair",
+          "Frequency":"30"
+        }      ]   },  "Cluster10":
+  { 
+    "id":"10",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"11"
+        },
+        {          "Word":"begat",
+          "Frequency":"14"
+        },
+        {          "Word":"father",
+          "Frequency":"8"
+        }      ]   },  "Cluster11":
+  { 
+    "id":"11",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"141"
+        }      ]   },  "Cluster12":
+  { 
+    "id":"12",
+    "Document":
+      [
+        {          "Word":"azorn",
+          "Frequency":"14"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"10"
+        },
+        {          "Word":"del",
+          "Frequency":"18"
+        },
+        {          "Word":"que",
+          "Frequency":"12"
+        }      ]   },  "Cluster13":
+  { 
+    "id":"13",
+    "Document":
+      [
+        {          "Word":"adalat",
+          "Frequency":"45"
+        },
+        {          "Word":"azor",
+          "Frequency":"53"
+        },
+        {          "Word":"blood",
+          "Frequency":"43"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"77"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"53"
+        },
+        {          "Word":"online",
+          "Frequency":"44"
+        },
+        {          "Word":"pressure",
+          "Frequency":"41"
+        },
+        {          "Word":"procardia",
+          "Frequency":"40"
+        }      ]   },  "Cluster14":
+  { 
+    "id":"14",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"66"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"44"
+        }      ]   },  "Cluster15":
+  { 
+    "id":"15",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"77"
+        },
+        {          "Word":"depressed",
+          "Frequency":"44"
+        }      ]   },  "Cluster17":
+  { 
+    "id":"17",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"diane",
+          "Frequency":"2"
+        },
+        {          "Word":"dizon",
+          "Frequency":"2"
+        },
+        {          "Word":"marjerie",
+          "Frequency":"2"
+        },
+        {          "Word":"pangan",
+          "Frequency":"2"
+        }      ]   },  "Cluster16":
+  { 
+    "id":"16",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"60"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"76"
+        },
+        {          "Word":"niaspan",
+          "Frequency":"56"
+        }      ]   },  "Cluster19":
+  { 
+    "id":"19",
+    "Document":
+      [
+        {          "Word":"available",
+          "Frequency":"6"
+        },
+        {          "Word":"boy",
+          "Frequency":"6"
+        },
+        {          "Word":"cholesterol",
+          "Frequency":"7"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"7"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"12"
+        },
+        {          "Word":"needed",
+          "Frequency":"10"
+        },
+        {          "Word":"now",
+          "Frequency":"6"
+        },
+        {          "Word":"online",
+          "Frequency":"6"
+        }      ]   },  "Cluster18":
+  { 
+    "id":"18",
+    "Document":
+      [
+        {          "Word":"caduet",
+          "Frequency":"34"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"40"
+        },
+        {          "Word":"januvia",
+          "Frequency":"47"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"64"
+        },
+        {          "Word":"online",
+          "Frequency":"45"
+        }      ]   },  "Cluster21":
+  { 
+    "id":"21",
+    "Document":
+      [
+        {          "Word":"norvasc",
+          "Frequency":"123"
+        }      ]   },  "Cluster20":
+  { 
+    "id":"20",
+    "Document":
+      [
+        {          "Word":"bring",
+          "Frequency":"48"
+        },
+        {          "Word":"btw",
+          "Frequency":"48"
+        },
+        {          "Word":"furniture",
+          "Frequency":"48"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"48"
+        },
+        {          "Word":"living",
+          "Frequency":"48"
+        },
+        {          "Word":"lol",
+          "Frequency":"50"
+        },
+        {          "Word":"seniors",
+          "Frequency":"48"
+        },
+        {          "Word":"texting",
+          "Frequency":"48"
+        },
+        {          "Word":"wet",
+          "Frequency":"48"
+        },
+        {          "Word":"wheelchair",
+          "Frequency":"48"
+        },
+        {          "Word":"wtf",
+          "Frequency":"52"
+        }      ]   },  "Cluster23":
+  { 
+    "id":"23",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"bkra",
+          "Frequency":"2"
+        },
+        {          "Word":"nhrda",
+          "Frequency":"2"
+        },
+        {          "Word":"rya",
+          "Frequency":"2"
+        },
+        {          "Word":"tetaa",
+          "Frequency":"2"
+        }      ]   },  "Cluster22":
+  { 
+    "id":"22",
+    "Document":
+      [
+        {          "Word":"det",
+          "Frequency":"2"
+        },
+        {          "Word":"doser",
+          "Frequency":"2"
+        },
+        {          "Word":"haft",
+          "Frequency":"2"
+        },
+        {          "Word":"har",
+          "Frequency":"2"
+        },
+        {          "Word":"jag",
+          "Frequency":"2"
+        },
+        {          "Word":"och",
+          "Frequency":"2"
+        },
+        {          "Word":"olika",
+          "Frequency":"2"
+        },
+        {          "Word":"oxis",
+          "Frequency":"2"
+        },
+        {          "Word":"pulmicourt",
+          "Frequency":"2"
+        },
+        {          "Word":"singulair",
+          "Frequency":"2"
+        },
+        {          "Word":"snart",
+          "Frequency":"2"
+        }      ]   },  "Cluster25":
+  { 
+    "id":"25",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"12"
+        },
+        {          "Word":"azor",
+          "Frequency":"10"
+        },
+        {          "Word":"januvia",
+          "Frequency":"12"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"10"
+        },
+        {          "Word":"market",
+          "Frequency":"10"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"18"
+        }      ]   },  "Cluster24":
+  { 
+    "id":"24",
+    "Document":
+      [
+        {          "Word":"generic",
+          "Frequency":"354"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"338"
+        },
+        {          "Word":"production",
+          "Frequency":"334"
+        },
+        {          "Word":"ranbaxy",
+          "Frequency":"402"
+        },
+        {          "Word":"resume",
+          "Frequency":"301"
+        }      ]   },  "Cluster27":
+  { 
+    "id":"27",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"63"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"39"
+        }      ]   },  "Cluster26":
+  { 
+    "id":"26",
+    "Document":
+      [
+        {          "Word":"accepted",
+          "Frequency":"12"
+        },
+        {          "Word":"azor",
+          "Frequency":"13"
+        },
+        {          "Word":"buy",
+          "Frequency":"14"
+        },
+        {          "Word":"citrate",
+          "Frequency":"14"
+        },
+        {          "Word":"clomid",
+          "Frequency":"16"
+        },
+        {          "Word":"clomiphene",
+          "Frequency":"14"
+        },
+        {          "Word":"cod",
+          "Frequency":"12"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"22"
+        },
+        {          "Word":"generic",
+          "Frequency":"24"
+        },
+        {          "Word":"internet",
+          "Frequency":"24"
+        },
+        {          "Word":"januvia",
+          "Frequency":"23"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"18"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"18"
+        },
+        {          "Word":"online",
+          "Frequency":"13"
+        },
+        {          "Word":"singulair",
+          "Frequency":"20"
+        },
+        {          "Word":"want",
+          "Frequency":"16"
+        }      ]   },  "Cluster29":
+  { 
+    "id":"29",
+    "Document":
+      [
+        {          "Word":"advair",
+          "Frequency":"44"
+        },
+        {          "Word":"buy",
+          "Frequency":"36"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"38"
+        },
+        {          "Word":"internet",
+          "Frequency":"42"
+        },
+        {          "Word":"januvia",
+          "Frequency":"32"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"43"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"25"
+        },
+        {          "Word":"online",
+          "Frequency":"39"
+        },
+        {          "Word":"singulair",
+          "Frequency":"49"
+        }      ]   },  "Cluster28":
+  { 
+    "id":"28",
+    "Document":
+      [
+        {          "Word":"avapro",
+          "Frequency":"28"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"24"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"42"
+        },
+        {          "Word":"side",
+          "Frequency":"27"
+        },
+        {          "Word":"singulair",
+          "Frequency":"45"
+        },
+        {          "Word":"valsartan",
+          "Frequency":"32"
+        }      ]   },  "Cluster31":
+  { 
+    "id":"31",
+    "Document":
+      [
+        {          "Word":"lipitor",
+          "Frequency":"6"
+        },
+        {          "Word":"zestoretic",
+          "Frequency":"10"
+        }      ]   },  "Cluster30":
+  { 
+    "id":"30",
+    "Document":
+      [
+        {          "Word":"januvia",
+          "Frequency":"28"
+        },
+        {          "Word":"lantus",
+          "Frequency":"19"
+        }      ]   },  "Cluster34":
+  { 
+    "id":"34",
+    "Document":
+      [
+        {          "Word":"atorvastatin",
+          "Frequency":"38"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"36"
+        },
+        {          "Word":"nasonex",
+          "Frequency":"28"
+        },
+        {          "Word":"singulair",
+          "Frequency":"47"
+        }      ]   },  "Cluster35":
+  { 
+    "id":"35",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"6"
+        },
+        {          "Word":"desyrel",
+          "Frequency":"12"
+        }      ]   },  "Cluster32":
+  { 
+    "id":"32",
+    "Document":
+      [
+        {          "Word":"acid",
+          "Frequency":"24"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"26"
+        },
+        {          "Word":"diabetes",
+          "Frequency":"20"
+        },
+        {          "Word":"drugs",
+          "Frequency":"20"
+        },
+        {          "Word":"januvia",
+          "Frequency":"36"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"38"
+        },
+        {          "Word":"singulair",
+          "Frequency":"20"
+        }      ]   },  "Cluster33":
+  { 
+    "id":"33",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"52"
+        }      ]   },  "Cluster38":
+  { 
+    "id":"38",
+    "Document":
+      [
+        {          "Word":"alot",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"distraction",
+          "Frequency":"2"
+        },
+        {          "Word":"needing",
+          "Frequency":"2"
+        },
+        {          "Word":"weekend",
+          "Frequency":"2"
+        }      ]   },  "Cluster39":
+  { 
+    "id":"39",
+    "Document":
+      [
+        {          "Word":"amaryl",
+          "Frequency":"10"
+        },
+        {          "Word":"amlodipine",
+          "Frequency":"16"
+        },
+        {          "Word":"atenolol",
+          "Frequency":"12"
+        },
+        {          "Word":"benazepril",
+          "Frequency":"8"
+        },
+        {          "Word":"drug",
+          "Frequency":"8"
+        },
+        {          "Word":"indication",
+          "Frequency":"8"
+        },
+        {          "Word":"januvia",
+          "Frequency":"12"
+        },
+        {          "Word":"manufacturer",
+          "Frequency":"10"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"12"
+        },
+        {          "Word":"singulair",
+          "Frequency":"10"
+        }      ]   },  "Cluster36":
+  { 
+    "id":"36",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"50"
+        },
+        {          "Word":"singulair",
+          "Frequency":"36"
+        }      ]   },  "Cluster37":
+  { 
+    "id":"37",
+    "Document":
+      [
+        {          "Word":"azcapotzalco",
+          "Frequency":"4"
+        },
+        {          "Word":"azor",
+          "Frequency":"4"
+        },
+        {          "Word":"grupo",
+          "Frequency":"4"
+        }      ]   },  "Cluster42":
+  { 
+    "id":"42",
+    "Document":
+      [
+        {          "Word":"beer",
+          "Frequency":"8"
+        },
+        {          "Word":"drinking",
+          "Frequency":"6"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"10"
+        }      ]   },  "Cluster43":
+  { 
+    "id":"43",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"14"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"28"
+        }      ]   },  "Cluster40":
+  { 
+    "id":"40",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"kristen",
+          "Frequency":"4"
+        },
+        {          "Word":"life",
+          "Frequency":"4"
+        },
+        {          "Word":"oscar",
+          "Frequency":"4"
+        },
+        {          "Word":"sponsored",
+          "Frequency":"6"
+        },
+        {          "Word":"stewarts",
+          "Frequency":"4"
+        },
+        {          "Word":"tonights",
+          "Frequency":"4"
+        }      ]   },  "Cluster41":
+  { 
+    "id":"41",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"32"
+        },
+        {          "Word":"benazepril",
+          "Frequency":"33"
+        },
+        {          "Word":"hct",
+          "Frequency":"55"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"30"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"38"
+        }      ]   },  "Cluster46":
+  { 
+    "id":"46",
+    "Document":
+      [
+        {          "Word":"drug",
+          "Frequency":"8"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"12"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"14"
+        },
+        {          "Word":"substitute",
+          "Frequency":"10"
+        }      ]   },  "Cluster47":
+  { 
+    "id":"47",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"8"
+        },
+        {          "Word":"dinitrate",
+          "Frequency":"4"
+        },
+        {          "Word":"isosorbide",
+          "Frequency":"6"
+        },
+        {          "Word":"zolpidem",
+          "Frequency":"4"
+        }      ]   },  "Cluster44":
+  { 
+    "id":"44",
+    "Document":
+      [
+        {          "Word":"atorvastatin",
+          "Frequency":"16"
+        },
+        {          "Word":"azor",
+          "Frequency":"15"
+        },
+        {          "Word":"caduet",
+          "Frequency":"16"
+        },
+        {          "Word":"januvia",
+          "Frequency":"16"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"18"
+        },
+        {          "Word":"metoprolol",
+          "Frequency":"16"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"20"
+        },
+        {          "Word":"olmesartan",
+          "Frequency":"16"
+        },
+        {          "Word":"online",
+          "Frequency":"30"
+        },
+        {          "Word":"protonix",
+          "Frequency":"15"
+        },
+        {          "Word":"toprol",
+          "Frequency":"16"
+        }      ]   },  "Cluster45":
+  { 
+    "id":"45",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"16"
+        },
+        {          "Word":"buy",
+          "Frequency":"12"
+        },
+        {          "Word":"januvia",
+          "Frequency":"18"
+        },
+        {          "Word":"lanoxin",
+          "Frequency":"12"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"17"
+        },
+        {          "Word":"online",
+          "Frequency":"21"
+        },
+        {          "Word":"singulair",
+          "Frequency":"13"
+        }      ]   },  "Cluster51":
+  { 
+    "id":"51",
+    "Document":
+      [
+        {          "Word":"dosering",
+          "Frequency":"2"
+        },
+        {          "Word":"effect",
+          "Frequency":"2"
+        },
+        {          "Word":"equals",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"vesicare",
+          "Frequency":"4"
+        }      ]   },  "Cluster50":
+  { 
+    "id":"50",
+    "Document":
+      [
+        {          "Word":"buy",
+          "Frequency":"14"
+        },
+        {          "Word":"propranolol",
+          "Frequency":"14"
+        },
+        {          "Word":"singulair",
+          "Frequency":"14"
+        }      ]   },  "Cluster49":
+  { 
+    "id":"49",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"51"
+        },
+        {          "Word":"effects",
+          "Frequency":"27"
+        },
+        {          "Word":"news",
+          "Frequency":"28"
+        },
+        {          "Word":"side",
+          "Frequency":"31"
+        },
+        {          "Word":"singulair",
+          "Frequency":"42"
+        }      ]   },  "Cluster48":
+  { 
+    "id":"48",
+    "Document":
+      [
+        {          "Word":"januvia",
+          "Frequency":"8"
+        },
+        {          "Word":"multiples",
+          "Frequency":"4"
+        }      ]   },  "Cluster55":
+  { 
+    "id":"55",
+    "Document":
+      [
+        {          "Word":"becoming",
+          "Frequency":"8"
+        },
+        {          "Word":"cancer",
+          "Frequency":"8"
+        },
+        {          "Word":"cause",
+          "Frequency":"8"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"16"
+        },
+        {          "Word":"depression",
+          "Frequency":"8"
+        },
+        {          "Word":"diabetes",
+          "Frequency":"8"
+        },
+        {          "Word":"gain",
+          "Frequency":"8"
+        },
+        {          "Word":"headaches",
+          "Frequency":"8"
+        },
+        {          "Word":"next",
+          "Frequency":"8"
+        },
+        {          "Word":"pregnancy",
+          "Frequency":"8"
+        },
+        {          "Word":"suicide",
+          "Frequency":"8"
+        },
+        {          "Word":"thoughts",
+          "Frequency":"8"
+        },
+        {          "Word":"weight",
+          "Frequency":"8"
+        }      ]   },  "Cluster54":
+  { 
+    "id":"54",
+    "Document":
+      [
+        {          "Word":"captopril",
+          "Frequency":"14"
+        },
+        {          "Word":"hydrochlorothiazide",
+          "Frequency":"22"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"16"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"12"
+        },
+        {          "Word":"singulair",
+          "Frequency":"12"
+        }      ]   },  "Cluster53":
+  { 
+    "id":"53",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"33"
+        },
+        {          "Word":"generic",
+          "Frequency":"21"
+        }      ]   },  "Cluster52":
+  { 
+    "id":"52",
+    "Document":
+      [
+        {          "Word":"accurgerarm",
+          "Frequency":"16"
+        },
+        {          "Word":"amoxicillin",
+          "Frequency":"16"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"22"
+        },
+        {          "Word":"dysfunction",
+          "Frequency":"14"
+        },
+        {          "Word":"kava",
+          "Frequency":"16"
+        },
+        {          "Word":"new",
+          "Frequency":"14"
+        },
+        {          "Word":"online",
+          "Frequency":"18"
+        },
+        {          "Word":"pharmacy",
+          "Frequency":"16"
+        },
+        {          "Word":"singulair",
+          "Frequency":"26"
+        },
+        {          "Word":"tea",
+          "Frequency":"16"
+        },
+        {          "Word":"topic",
+          "Frequency":"14"
+        },
+        {          "Word":"xanax",
+          "Frequency":"18"
+        }      ]   },  "Cluster59":
+  { 
+    "id":"59",
+    "Document":
+      [
+        {          "Word":"anmweyyy",
+          "Frequency":"2"
+        },
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"belle",
+          "Frequency":"2"
+        },
+        {          "Word":"bezwen",
+          "Frequency":"2"
+        },
+        {          "Word":"bjr",
+          "Frequency":"2"
+        },
+        {          "Word":"cherie",
+          "Frequency":"2"
+        },
+        {          "Word":"poum",
+          "Frequency":"2"
+        },
+        {          "Word":"reveill",
+          "Frequency":"2"
+        },
+        {          "Word":"rte",
+          "Frequency":"2"
+        },
+        {          "Word":"suis",
+          "Frequency":"2"
+        },
+        {          "Word":"zanmi",
+          "Frequency":"3"
+        }      ]   },  "Cluster58":
+  { 
+    "id":"58",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"4"
+        },
+        {          "Word":"besylate",
+          "Frequency":"2"
+        },
+        {          "Word":"kinetics",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"tamlyn",
+          "Frequency":"2"
+        }      ]   },  "Cluster57":
+  { 
+    "id":"57",
+    "Document":
+      [
+        {          "Word":"again",
+          "Frequency":"30"
+        },
+        {          "Word":"generic",
+          "Frequency":"32"
+        },
+        {          "Word":"januvia",
+          "Frequency":"28"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"32"
+        },
+        {          "Word":"production",
+          "Frequency":"28"
+        },
+        {          "Word":"ranbaxy",
+          "Frequency":"30"
+        },
+        {          "Word":"starts",
+          "Frequency":"34"
+        }      ]   },  "Cluster56":
+  { 
+    "id":"56",
+    "Document":
+      [
+        {          "Word":"altace",
+          "Frequency":"2"
+        },
+        {          "Word":"arrhythmia",
+          "Frequency":"4"
+        },
+        {          "Word":"canine",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"miconazole",
+          "Frequency":"4"
+        },
+        {          "Word":"nitrate",
+          "Frequency":"3"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"4"
+        },
+        {          "Word":"ringworm",
+          "Frequency":"2"
+        },
+        {          "Word":"through",
+          "Frequency":"2"
+        },
+        {          "Word":"use",
+          "Frequency":"2"
+        },
+        {          "Word":"way",
+          "Frequency":"2"
+        }      ]   },  "Cluster63":
+  { 
+    "id":"63",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"10"
+        },
+        {          "Word":"azor",
+          "Frequency":"15"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"8"
+        },
+        {          "Word":"indiana",
+          "Frequency":"10"
+        },
+        {          "Word":"januvia",
+          "Frequency":"12"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"10"
+        },
+        {          "Word":"memory",
+          "Frequency":"10"
+        },
+        {          "Word":"online",
+          "Frequency":"8"
+        },
+        {          "Word":"over",
+          "Frequency":"8"
+        },
+        {          "Word":"short",
+          "Frequency":"8"
+        }      ]   },  "Cluster62":
+  { 
+    "id":"62",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"20"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"16"
+        }      ]   },  "Cluster61":
+  { 
+    "id":"61",
+    "Document":
+      [
+        {          "Word":"canadian",
+          "Frequency":"12"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"10"
+        },
+        {          "Word":"pharmacy",
+          "Frequency":"8"
+        }      ]   },  "Cluster60":
+  { 
+    "id":"60",
+    "Document":
+      [
+        {          "Word":"atorvastatin",
+          "Frequency":"19"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"15"
+        },
+        {          "Word":"production",
+          "Frequency":"18"
+        },
+        {          "Word":"ranbaxy",
+          "Frequency":"27"
+        },
+        {          "Word":"restart",
+          "Frequency":"14"
+        },
+        {          "Word":"shares",
+          "Frequency":"14"
+        }      ]   },  "Cluster68":
+  { 
+    "id":"68",
+    "Document":
+      [
+        {          "Word":"case",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"grapefruit",
+          "Frequency":"2"
+        },
+        {          "Word":"juice",
+          "Frequency":"2"
+        },
+        {          "Word":"leg",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"4"
+        },
+        {          "Word":"maxalt",
+          "Frequency":"4"
+        },
+        {          "Word":"monitoring",
+          "Frequency":"2"
+        },
+        {          "Word":"muscles",
+          "Frequency":"2"
+        },
+        {          "Word":"parameters",
+          "Frequency":"2"
+        },
+        {          "Word":"price",
+          "Frequency":"2"
+        },
+        {          "Word":"progesterone",
+          "Frequency":"4"
+        },
+        {          "Word":"through",
+          "Frequency":"2"
+        }      ]   },  "Cluster69":
+  { 
+    "id":"69",
+    "Document":
+      [
+        {          "Word":"desktop",
+          "Frequency":"2"
+        },
+        {          "Word":"distortion",
+          "Frequency":"2"
+        },
+        {          "Word":"free",
+          "Frequency":"2"
+        },
+        {          "Word":"guitar",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"over",
+          "Frequency":"2"
+        },
+        {          "Word":"preset",
+          "Frequency":"2"
+        },
+        {          "Word":"supra",
+          "Frequency":"4"
+        },
+        {          "Word":"toyota",
+          "Frequency":"2"
+        }      ]   },  "Cluster70":
+  { 
+    "id":"70",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"4"
+        },
+        {          "Word":"case",
+          "Frequency":"2"
+        },
+        {          "Word":"diuretics",
+          "Frequency":"2"
+        },
+        {          "Word":"over",
+          "Frequency":"2"
+        },
+        {          "Word":"statin",
+          "Frequency":"2"
+        },
+        {          "Word":"vesylite",
+          "Frequency":"2"
+        }      ]   },  "Cluster71":
+  { 
+    "id":"71",
+    "Document":
+      [
+        {          "Word":"atorvastatin",
+          "Frequency":"4"
+        },
+        {          "Word":"calc",
+          "Frequency":"2"
+        },
+        {          "Word":"difference",
+          "Frequency":"2"
+        },
+        {          "Word":"efectos",
+          "Frequency":"2"
+        },
+        {          "Word":"effects",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"nocivos",
+          "Frequency":"2"
+        },
+        {          "Word":"side",
+          "Frequency":"2"
+        },
+        {          "Word":"simvastatin",
+          "Frequency":"2"
+        }      ]   },  "Cluster64":
+  { 
+    "id":"64",
+    "Document":
+      [
+        {          "Word":"olanzapine",
+          "Frequency":"20"
+        },
+        {          "Word":"zyprexa",
+          "Frequency":"19"
+        }      ]   },  "Cluster65":
+  { 
+    "id":"65",
+    "Document":
+      [
+        {          "Word":"aid",
+          "Frequency":"10"
+        },
+        {          "Word":"between",
+          "Frequency":"10"
+        },
+        {          "Word":"bloomin",
+          "Frequency":"10"
+        },
+        {          "Word":"corral",
+          "Frequency":"10"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"18"
+        },
+        {          "Word":"dont",
+          "Frequency":"10"
+        },
+        {          "Word":"eating",
+          "Frequency":"14"
+        },
+        {          "Word":"free",
+          "Frequency":"15"
+        },
+        {          "Word":"golden",
+          "Frequency":"10"
+        },
+        {          "Word":"kids",
+          "Frequency":"10"
+        },
+        {          "Word":"needs",
+          "Frequency":"10"
+        },
+        {          "Word":"onion",
+          "Frequency":"10"
+        },
+        {          "Word":"seroquel",
+          "Frequency":"12"
+        },
+        {          "Word":"somebody",
+          "Frequency":"10"
+        }      ]   },  "Cluster66":
+  { 
+    "id":"66",
+    "Document":
+      [
+        {          "Word":"lipitor",
+          "Frequency":"6"
+        },
+        {          "Word":"omeprazole",
+          "Frequency":"4"
+        },
+        {          "Word":"ranitidine",
+          "Frequency":"8"
+        }      ]   },  "Cluster67":
+  { 
+    "id":"67",
+    "Document":
+      [
+        {          "Word":"color",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"nimh",
+          "Frequency":"2"
+        },
+        {          "Word":"picture",
+          "Frequency":"2"
+        }      ]   },  "Cluster76":
+  { 
+    "id":"76",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"20"
+        },
+        {          "Word":"besylate",
+          "Frequency":"19"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"19"
+        },
+        {          "Word":"see",
+          "Frequency":"17"
+        }      ]   },  "Cluster77":
+  { 
+    "id":"77",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"8"
+        },
+        {          "Word":"effects",
+          "Frequency":"8"
+        },
+        {          "Word":"help",
+          "Frequency":"8"
+        },
+        {          "Word":"minimal",
+          "Frequency":"8"
+        },
+        {          "Word":"savelia",
+          "Frequency":"8"
+        },
+        {          "Word":"side",
+          "Frequency":"8"
+        },
+        {          "Word":"unwanted",
+          "Frequency":"8"
+        },
+        {          "Word":"via",
+          "Frequency":"8"
+        },
+        {          "Word":"video",
+          "Frequency":"6"
+        }      ]   },  "Cluster78":
+  { 
+    "id":"78",
+    "Document":
+      [
+        {          "Word":"atorvastatin",
+          "Frequency":"4"
+        },
+        {          "Word":"byetta",
+          "Frequency":"3"
+        },
+        {          "Word":"calcium",
+          "Frequency":"3"
+        },
+        {          "Word":"januvia",
+          "Frequency":"3"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"3"
+        },
+        {          "Word":"users",
+          "Frequency":"6"
+        }      ]   },  "Cluster79":
+  { 
+    "id":"79",
+    "Document":
+      [
+        {          "Word":"generic",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"medindustry",
+          "Frequency":"2"
+        },
+        {          "Word":"production",
+          "Frequency":"2"
+        },
+        {          "Word":"ranbaxy",
+          "Frequency":"2"
+        },
+        {          "Word":"resume",
+          "Frequency":"2"
+        }      ]   },  "Cluster72":
+  { 
+    "id":"72",
+    "Document":
+      [
+        {          "Word":"lipitor",
+          "Frequency":"25"
+        },
+        {          "Word":"mevacor",
+          "Frequency":"46"
+        }      ]   },  "Cluster73":
+  { 
+    "id":"73",
+    "Document":
+      [
+        {          "Word":"lipitor",
+          "Frequency":"18"
+        },
+        {          "Word":"prilosec",
+          "Frequency":"9"
+        }      ]   },  "Cluster74":
+  { 
+    "id":"74",
+    "Document":
+      [
+        {          "Word":"carvedilol",
+          "Frequency":"12"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"8"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"14"
+        },
+        {          "Word":"stuck",
+          "Frequency":"8"
+        },
+        {          "Word":"times",
+          "Frequency":"10"
+        }      ]   },  "Cluster75":
+  { 
+    "id":"75",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"6"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"10"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"12"
+        },
+        {          "Word":"mental",
+          "Frequency":"8"
+        },
+        {          "Word":"started",
+          "Frequency":"6"
+        }      ]   },  "Cluster85":
+  { 
+    "id":"85",
+    "Document":
+      [
+        {          "Word":"atorvastatin",
+          "Frequency":"5"
+        }      ]   },  "Cluster84":
+  { 
+    "id":"84",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"19"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"14"
+        },
+        {          "Word":"online",
+          "Frequency":"17"
+        }      ]   },  "Cluster87":
+  { 
+    "id":"87",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"depression",
+          "Frequency":"2"
+        },
+        {          "Word":"helpemilywire",
+          "Frequency":"2"
+        },
+        {          "Word":"hurts",
+          "Frequency":"2"
+        }      ]   },  "Cluster86":
+  { 
+    "id":"86",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"18"
+        },
+        {          "Word":"depression",
+          "Frequency":"10"
+        },
+        {          "Word":"help",
+          "Frequency":"12"
+        }      ]   },  "Cluster81":
+  { 
+    "id":"81",
+    "Document":
+      [
+        {          "Word":"amiodarone",
+          "Frequency":"4"
+        },
+        {          "Word":"equals",
+          "Frequency":"2"
+        },
+        {          "Word":"grams",
+          "Frequency":"2"
+        },
+        {          "Word":"inj",
+          "Frequency":"2"
+        },
+        {          "Word":"interaction",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"max",
+          "Frequency":"2"
+        }      ]   },  "Cluster80":
+  { 
+    "id":"80",
+    "Document":
+      [
+        {          "Word":"generic",
+          "Frequency":"6"
+        },
+        {          "Word":"healthnews",
+          "Frequency":"6"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"6"
+        },
+        {          "Word":"production",
+          "Frequency":"6"
+        },
+        {          "Word":"ranbaxy",
+          "Frequency":"6"
+        },
+        {          "Word":"resume",
+          "Frequency":"6"
+        }      ]   },  "Cluster83":
+  { 
+    "id":"83",
+    "Document":
+      [
+        {          "Word":"atorvastatin",
+          "Frequency":"7"
+        },
+        {          "Word":"bad",
+          "Frequency":"14"
+        },
+        {          "Word":"breath",
+          "Frequency":"8"
+        },
+        {          "Word":"interesting",
+          "Frequency":"8"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"14"
+        },
+        {          "Word":"week",
+          "Frequency":"8"
+        }      ]   },  "Cluster82":
+  { 
+    "id":"82",
+    "Document":
+      [
+        {          "Word":"singulairar",
+          "Frequency":"2"
+        }      ]   },  "Cluster93":
+  { 
+    "id":"93",
+    "Document":
+      [
+        {          "Word":"case",
+          "Frequency":"2"
+        },
+        {          "Word":"glucagon",
+          "Frequency":"2"
+        },
+        {          "Word":"januvia",
+          "Frequency":"2"
+        },
+        {          "Word":"loss",
+          "Frequency":"2"
+        },
+        {          "Word":"peptide",
+          "Frequency":"2"
+        },
+        {          "Word":"sitagliptin",
+          "Frequency":"4"
+        },
+        {          "Word":"tablet",
+          "Frequency":"2"
+        },
+        {          "Word":"weight",
+          "Frequency":"2"
+        }      ]   },  "Cluster92":
+  { 
+    "id":"92",
+    "Document":
+      [
+        {          "Word":"allergy",
+          "Frequency":"2"
+        },
+        {          "Word":"managing",
+          "Frequency":"2"
+        },
+        {          "Word":"singulair",
+          "Frequency":"2"
+        }      ]   },  "Cluster95":
+  { 
+    "id":"95",
+    "Document":
+      [
+        {          "Word":"detrol",
+          "Frequency":"4"
+        },
+        {          "Word":"enablex",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"online",
+          "Frequency":"2"
+        },
+        {          "Word":"prescription",
+          "Frequency":"2"
+        },
+        {          "Word":"tartrate",
+          "Frequency":"2"
+        },
+        {          "Word":"tolterodine",
+          "Frequency":"2"
+        },
+        {          "Word":"without",
+          "Frequency":"2"
+        }      ]   },  "Cluster94":
+  { 
+    "id":"94",
+    "Document":
+      [
+        {          "Word":"micardis",
+          "Frequency":"14"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"11"
+        }      ]   },  "Cluster89":
+  { 
+    "id":"89",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"14"
+        },
+        {          "Word":"claritin",
+          "Frequency":"8"
+        },
+        {          "Word":"eye",
+          "Frequency":"8"
+        }      ]   },  "Cluster88":
+  { 
+    "id":"88",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"halp",
+          "Frequency":"4"
+        }      ]   },  "Cluster91":
+  { 
+    "id":"91",
+    "Document":
+      [
+        {          "Word":"singulair",
+          "Frequency":"20"
+        }      ]   },  "Cluster90":
+  { 
+    "id":"90",
+    "Document":
+      [
+        {          "Word":"biaxin",
+          "Frequency":"4"
+        },
+        {          "Word":"bitter",
+          "Frequency":"4"
+        },
+        {          "Word":"effexor",
+          "Frequency":"4"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"6"
+        },
+        {          "Word":"over",
+          "Frequency":"4"
+        },
+        {          "Word":"taste",
+          "Frequency":"6"
+        }      ]   },  "Cluster102":
+  { 
+    "id":"102",
+    "Document":
+      [
+        {          "Word":"atorvastatin",
+          "Frequency":"30"
+        },
+        {          "Word":"cholesterol",
+          "Frequency":"16"
+        },
+        {          "Word":"effects",
+          "Frequency":"22"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"16"
+        },
+        {          "Word":"new",
+          "Frequency":"18"
+        },
+        {          "Word":"post",
+          "Frequency":"20"
+        },
+        {          "Word":"side",
+          "Frequency":"25"
+        },
+        {          "Word":"uses",
+          "Frequency":"22"
+        }      ]   },  "Cluster103":
+  { 
+    "id":"103",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"help",
+          "Frequency":"2"
+        },
+        {          "Word":"woody",
+          "Frequency":"2"
+        }      ]   },  "Cluster100":
+  { 
+    "id":"100",
+    "Document":
+      [
+        {          "Word":"byetta",
+          "Frequency":"24"
+        },
+        {          "Word":"drugs",
+          "Frequency":"30"
+        },
+        {          "Word":"januvia",
+          "Frequency":"30"
+        },
+        {          "Word":"linked",
+          "Frequency":"36"
+        },
+        {          "Word":"pancreatitis",
+          "Frequency":"47"
+        },
+        {          "Word":"risk",
+          "Frequency":"44"
+        }      ]   },  "Cluster101":
+  { 
+    "id":"101",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"13"
+        },
+        {          "Word":"feel",
+          "Frequency":"15"
+        },
+        {          "Word":"helped",
+          "Frequency":"8"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"8"
+        },
+        {          "Word":"pizza",
+          "Frequency":"8"
+        }      ]   },  "Cluster98":
+  { 
+    "id":"98",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"hsbc",
+          "Frequency":"3"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"6"
+        },
+        {          "Word":"lost",
+          "Frequency":"4"
+        },
+        {          "Word":"raise",
+          "Frequency":"4"
+        },
+        {          "Word":"way",
+          "Frequency":"5"
+        }      ]   },  "Cluster99":
+  { 
+    "id":"99",
+    "Document":
+      [
+        {          "Word":"generic",
+          "Frequency":"6"
+        },
+        {          "Word":"hcl",
+          "Frequency":"6"
+        },
+        {          "Word":"levitra",
+          "Frequency":"9"
+        },
+        {          "Word":"vardenafil",
+          "Frequency":"8"
+        }      ]   },  "Cluster96":
+  { 
+    "id":"96",
+    "Document":
+      [
+        {          "Word":"bme",
+          "Frequency":"2"
+        },
+        {          "Word":"fda",
+          "Frequency":"2"
+        },
+        {          "Word":"lidocaine",
+          "Frequency":"4"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"simvastatin",
+          "Frequency":"2"
+        }      ]   },  "Cluster97":
+  { 
+    "id":"97",
+    "Document":
+      [
+        {          "Word":"chf",
+          "Frequency":"2"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"4"
+        },
+        {          "Word":"probability",
+          "Frequency":"2"
+        }      ]   },  "Cluster110":
+  { 
+    "id":"110",
+    "Document":
+      [
+        {          "Word":"combination",
+          "Frequency":"2"
+        },
+        {          "Word":"depressioncymbaltafirey",
+          "Frequency":"2"
+        },
+        {          "Word":"good",
+          "Frequency":"2"
+        },
+        {          "Word":"partypartypartayyy",
+          "Frequency":"2"
+        },
+        {          "Word":"rain",
+          "Frequency":"2"
+        }      ]   },  "Cluster111":
+  { 
+    "id":"111",
+    "Document":
+      [
+        {          "Word":"ada",
+          "Frequency":"6"
+        },
+        {          "Word":"aku",
+          "Frequency":"6"
+        },
+        {          "Word":"amlodipine",
+          "Frequency":"4"
+        },
+        {          "Word":"atorvastatin",
+          "Frequency":"4"
+        },
+        {          "Word":"ccb",
+          "Frequency":"5"
+        },
+        {          "Word":"drug",
+          "Frequency":"3"
+        }      ]   },  "Cluster108":
+  { 
+    "id":"108",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"10"
+        },
+        {          "Word":"baka",
+          "Frequency":"6"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"8"
+        },
+        {          "Word":"god",
+          "Frequency":"8"
+        },
+        {          "Word":"map",
+          "Frequency":"6"
+        },
+        {          "Word":"pou",
+          "Frequency":"9"
+        },
+        {          "Word":"sou",
+          "Frequency":"6"
+        },
+        {          "Word":"voye",
+          "Frequency":"6"
+        },
+        {          "Word":"yon",
+          "Frequency":"11"
+        }      ]   },  "Cluster109":
+  { 
+    "id":"109",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"fucked",
+          "Frequency":"2"
+        }      ]   },  "Cluster106":
+  { 
+    "id":"106",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"24"
+        },
+        {          "Word":"need",
+          "Frequency":"24"
+        }      ]   },  "Cluster107":
+  { 
+    "id":"107",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbaltadepression",
+          "Frequency":"2"
+        },
+        {          "Word":"help",
+          "Frequency":"2"
+        },
+        {          "Word":"hurts",
+          "Frequency":"2"
+        }      ]   },  "Cluster104":
+  { 
+    "id":"104",
+    "Document":
+      [
+        {          "Word":"abertillery",
+          "Frequency":"4"
+        },
+        {          "Word":"alertab",
+          "Frequency":"4"
+        },
+        {          "Word":"best",
+          "Frequency":"8"
+        },
+        {          "Word":"buy",
+          "Frequency":"4"
+        },
+        {          "Word":"generic",
+          "Frequency":"4"
+        },
+        {          "Word":"internet",
+          "Frequency":"4"
+        },
+        {          "Word":"montelukast",
+          "Frequency":"6"
+        },
+        {          "Word":"price",
+          "Frequency":"6"
+        },
+        {          "Word":"script",
+          "Frequency":"4"
+        }      ]   },  "Cluster105":
+  { 
+    "id":"105",
+    "Document":
+      [
+        {          "Word":"cabinet",
+          "Frequency":"2"
+        },
+        {          "Word":"chaser",
+          "Frequency":"2"
+        },
+        {          "Word":"clean",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"ecstacy",
+          "Frequency":"2"
+        },
+        {          "Word":"medicine",
+          "Frequency":"2"
+        },
+        {          "Word":"out",
+          "Frequency":"2"
+        },
+        {          "Word":"work",
+          "Frequency":"2"
+        }      ]   },  "Cluster119":
+  { 
+    "id":"119",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"16"
+        },
+        {          "Word":"double",
+          "Frequency":"8"
+        },
+        {          "Word":"down",
+          "Frequency":"14"
+        },
+        {          "Word":"fucking",
+          "Frequency":"8"
+        }      ]   },  "Cluster118":
+  { 
+    "id":"118",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"paseros",
+          "Frequency":"2"
+        }      ]   },  "Cluster117":
+  { 
+    "id":"117",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"depression",
+          "Frequency":"2"
+        },
+        {          "Word":"helplol",
+          "Frequency":"2"
+        },
+        {          "Word":"hurts",
+          "Frequency":"2"
+        },
+        {          "Word":"lie",
+          "Frequency":"2"
+        }      ]   },  "Cluster116":
+  { 
+    "id":"116",
+    "Document":
+      [
+        {          "Word":"brand",
+          "Frequency":"2"
+        },
+        {          "Word":"name",
+          "Frequency":"2"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"2"
+        },
+        {          "Word":"olathe",
+          "Frequency":"2"
+        }      ]   },  "Cluster115":
+  { 
+    "id":"115",
+    "Document":
+      [
+        {          "Word":"tagged",
+          "Frequency":"2"
+        }      ]   },  "Cluster114":
+  { 
+    "id":"114",
+    "Document":
+      [
+        {          "Word":"alas",
+          "Frequency":"2"
+        },
+        {          "Word":"aves",
+          "Frequency":"3"
+        },
+        {          "Word":"azor",
+          "Frequency":"4"
+        },
+        {          "Word":"bho",
+          "Frequency":"2"
+        },
+        {          "Word":"caballo",
+          "Frequency":"2"
+        },
+        {          "Word":"calla",
+          "Frequency":"3"
+        },
+        {          "Word":"cinto",
+          "Frequency":"2"
+        },
+        {          "Word":"comn",
+          "Frequency":"2"
+        },
+        {          "Word":"con",
+          "Frequency":"4"
+        },
+        {          "Word":"dice",
+          "Frequency":"2"
+        },
+        {          "Word":"encamina",
+          "Frequency":"2"
+        },
+        {          "Word":"espada",
+          "Frequency":"2"
+        },
+        {          "Word":"especies",
+          "Frequency":"2"
+        },
+        {          "Word":"hacia",
+          "Frequency":"2"
+        },
+        {          "Word":"hada",
+          "Frequency":"2"
+        },
+        {          "Word":"lechuza",
+          "Frequency":"2"
+        },
+        {          "Word":"madrina",
+          "Frequency":"2"
+        },
+        {          "Word":"mano",
+          "Frequency":"2"
+        },
+        {          "Word":"marzo",
+          "Frequency":"2"
+        },
+        {          "Word":"nuevo",
+          "Frequency":"2"
+        },
+        {          "Word":"princesa",
+          "Frequency":"2"
+        },
+        {          "Word":"rapaces",
+          "Frequency":"3"
+        },
+        {          "Word":"real",
+          "Frequency":"2"
+        },
+        {          "Word":"sbado",
+          "Frequency":"2"
+        },
+        {          "Word":"taller",
+          "Frequency":"2"
+        }      ]   },  "Cluster113":
+  { 
+    "id":"113",
+    "Document":
+      [
+        {          "Word":"generic",
+          "Frequency":"24"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"18"
+        },
+        {          "Word":"production",
+          "Frequency":"32"
+        },
+        {          "Word":"ranbaxy",
+          "Frequency":"26"
+        },
+        {          "Word":"resumes",
+          "Frequency":"34"
+        }      ]   },  "Cluster112":
+  { 
+    "id":"112",
+    "Document":
+      [
+        {          "Word":"ahai",
+          "Frequency":"8"
+        },
+        {          "Word":"azor",
+          "Frequency":"10"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"6"
+        },
+        {          "Word":"new",
+          "Frequency":"6"
+        },
+        {          "Word":"reborn",
+          "Frequency":"6"
+        },
+        {          "Word":"rhllor",
+          "Frequency":"6"
+        },
+        {          "Word":"shows",
+          "Frequency":"10"
+        }      ]   },  "Cluster127":
+  { 
+    "id":"127",
+    "Document":
+      [
+        {          "Word":"costco",
+          "Frequency":"6"
+        },
+        {          "Word":"discounts",
+          "Frequency":"10"
+        },
+        {          "Word":"free",
+          "Frequency":"6"
+        },
+        {          "Word":"prices",
+          "Frequency":"6"
+        },
+        {          "Word":"singulair",
+          "Frequency":"8"
+        }      ]   },  "Cluster126":
+  { 
+    "id":"126",
+    "Document":
+      [
+        {          "Word":"calan",
+          "Frequency":"14"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"18"
+        },
+        {          "Word":"prescribing",
+          "Frequency":"10"
+        }      ]   },  "Cluster125":
+  { 
+    "id":"125",
+    "Document":
+      [
+        {          "Word":"apa",
+          "Frequency":"2"
+        },
+        {          "Word":"atorvastatin",
+          "Frequency":"2"
+        },
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"belum",
+          "Frequency":"2"
+        },
+        {          "Word":"cha",
+          "Frequency":"4"
+        },
+        {          "Word":"dari",
+          "Frequency":"2"
+        },
+        {          "Word":"juga",
+          "Frequency":"2"
+        },
+        {          "Word":"pou",
+          "Frequency":"2"
+        },
+        {          "Word":"terlepas",
+          "Frequency":"2"
+        },
+        {          "Word":"udah",
+          "Frequency":"2"
+        },
+        {          "Word":"yon",
+          "Frequency":"2"
+        }      ]   },  "Cluster124":
+  { 
+    "id":"124",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"38"
+        },
+        {          "Word":"help",
+          "Frequency":"22"
+        },
+        {          "Word":"hurt",
+          "Frequency":"22"
+        }      ]   },  "Cluster123":
+  { 
+    "id":"123",
+    "Document":
+      [
+        {          "Word":"cholesterol",
+          "Frequency":"20"
+        },
+        {          "Word":"high",
+          "Frequency":"23"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"20"
+        },
+        {          "Word":"remedy",
+          "Frequency":"18"
+        }      ]   },  "Cluster122":
+  { 
+    "id":"122",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"bjeek",
+          "Frequency":"2"
+        },
+        {          "Word":"blmostshfa",
+          "Frequency":"2"
+        },
+        {          "Word":"bro",
+          "Frequency":"2"
+        },
+        {          "Word":"dain",
+          "Frequency":"2"
+        },
+        {          "Word":"esme",
+          "Frequency":"2"
+        },
+        {          "Word":"okaay",
+          "Frequency":"2"
+        },
+        {          "Word":"twdeh",
+          "Frequency":"2"
+        }      ]   },  "Cluster121":
+  { 
+    "id":"121",
+    "Document":
+      [
+        {          "Word":"ahora",
+          "Frequency":"4"
+        },
+        {          "Word":"cuanto",
+          "Frequency":"2"
+        },
+        {          "Word":"demasiado",
+          "Frequency":"2"
+        },
+        {          "Word":"dolares",
+          "Frequency":"2"
+        },
+        {          "Word":"exagerado",
+          "Frequency":"2"
+        },
+        {          "Word":"hace",
+          "Frequency":"2"
+        },
+        {          "Word":"horas",
+          "Frequency":"2"
+        },
+        {          "Word":"llegar",
+          "Frequency":"2"
+        },
+        {          "Word":"loratadina",
+          "Frequency":"2"
+        },
+        {          "Word":"menos",
+          "Frequency":"2"
+        },
+        {          "Word":"montelukast",
+          "Frequency":"2"
+        },
+        {          "Word":"nios",
+          "Frequency":"2"
+        },
+        {          "Word":"para",
+          "Frequency":"2"
+        },
+        {          "Word":"puede",
+          "Frequency":"2"
+        },
+        {          "Word":"que",
+          "Frequency":"2"
+        },
+        {          "Word":"singulair",
+          "Frequency":"2"
+        },
+        {          "Word":"tome",
+          "Frequency":"3"
+        },
+        {          "Word":"una",
+          "Frequency":"2"
+        },
+        {          "Word":"usado",
+          "Frequency":"2"
+        },
+        {          "Word":"vale",
+          "Frequency":"2"
+        }      ]   },  "Cluster120":
+  { 
+    "id":"120",
+    "Document":
+      [
+        {          "Word":"being",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"different",
+          "Frequency":"2"
+        },
+        {          "Word":"diseases",
+          "Frequency":"2"
+        },
+        {          "Word":"effects",
+          "Frequency":"2"
+        },
+        {          "Word":"incre",
+          "Frequency":"2"
+        },
+        {          "Word":"lifestyleinduced",
+          "Frequency":"2"
+        },
+        {          "Word":"method",
+          "Frequency":"4"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"3"
+        },
+        {          "Word":"patients",
+          "Frequency":"2"
+        },
+        {          "Word":"pills",
+          "Frequency":"2"
+        },
+        {          "Word":"prescribing",
+          "Frequency":"2"
+        },
+        {          "Word":"psychiatrists",
+          "Frequency":"2"
+        },
+        {          "Word":"side",
+          "Frequency":"2"
+        },
+        {          "Word":"taking",
+          "Frequency":"2"
+        },
+        {          "Word":"weeks",
+          "Frequency":"2"
+        },
+        {          "Word":"yrs",
+          "Frequency":"2"
+        }      ]   },  "Cluster137":
+  { 
+    "id":"137",
+    "Document":
+      [
+        {          "Word":"ability",
+          "Frequency":"4"
+        },
+        {          "Word":"azors",
+          "Frequency":"2"
+        },
+        {          "Word":"case",
+          "Frequency":"2"
+        },
+        {          "Word":"elocutors",
+          "Frequency":"2"
+        },
+        {          "Word":"enchanted",
+          "Frequency":"2"
+        },
+        {          "Word":"generic",
+          "Frequency":"2"
+        },
+        {          "Word":"interactions",
+          "Frequency":"2"
+        },
+        {          "Word":"look",
+          "Frequency":"2"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"4"
+        },
+        {          "Word":"stab",
+          "Frequency":"3"
+        },
+        {          "Word":"starter",
+          "Frequency":"2"
+        },
+        {          "Word":"upkeep",
+          "Frequency":"2"
+        },
+        {          "Word":"wound",
+          "Frequency":"3"
+        }      ]   },  "Cluster136":
+  { 
+    "id":"136",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"10"
+        },
+        {          "Word":"gonna",
+          "Frequency":"8"
+        }      ]   },  "Cluster139":
+  { 
+    "id":"139",
+    "Document":
+      [
+        {          "Word":"lipitor",
+          "Frequency":"4"
+        },
+        {          "Word":"protein",
+          "Frequency":"2"
+        },
+        {          "Word":"reactive",
+          "Frequency":"2"
+        }      ]   },  "Cluster138":
+  { 
+    "id":"138",
+    "Document":
+      [
+        {          "Word":"atorvastatin",
+          "Frequency":"4"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"6"
+        },
+        {          "Word":"zocor",
+          "Frequency":"6"
+        }      ]   },  "Cluster141":
+  { 
+    "id":"141",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"4"
+        },
+        {          "Word":"commercial",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"gustado",
+          "Frequency":"2"
+        },
+        {          "Word":"introduction",
+          "Frequency":"4"
+        },
+        {          "Word":"liked",
+          "Frequency":"4"
+        },
+        {          "Word":"officialdemand",
+          "Frequency":"4"
+        },
+        {          "Word":"vdeo",
+          "Frequency":"2"
+        },
+        {          "Word":"video",
+          "Frequency":"4"
+        }      ]   },  "Cluster140":
+  { 
+    "id":"140",
+    "Document":
+      [
+        {          "Word":"buy",
+          "Frequency":"2"
+        },
+        {          "Word":"coupon",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"delivery",
+          "Frequency":"2"
+        },
+        {          "Word":"estrace",
+          "Frequency":"4"
+        },
+        {          "Word":"fast",
+          "Frequency":"2"
+        },
+        {          "Word":"fett",
+          "Frequency":"2"
+        },
+        {          "Word":"internet",
+          "Frequency":"2"
+        },
+        {          "Word":"maryland",
+          "Frequency":"2"
+        },
+        {          "Word":"order",
+          "Frequency":"2"
+        },
+        {          "Word":"want",
+          "Frequency":"2"
+        }      ]   },  "Cluster143":
+  { 
+    "id":"143",
+    "Document":
+      [
+        {          "Word":"aerius",
+          "Frequency":"4"
+        },
+        {          "Word":"day",
+          "Frequency":"3"
+        },
+        {          "Word":"klacid",
+          "Frequency":"4"
+        },
+        {          "Word":"nasonex",
+          "Frequency":"4"
+        },
+        {          "Word":"physiomer",
+          "Frequency":"4"
+        },
+        {          "Word":"seretide",
+          "Frequency":"6"
+        },
+        {          "Word":"singulair",
+          "Frequency":"4"
+        },
+        {          "Word":"xilone",
+          "Frequency":"4"
+        }      ]   },  "Cluster142":
+  { 
+    "id":"142",
+    "Document":
+      [
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"much",
+          "Frequency":"2"
+        },
+        {          "Word":"pop",
+          "Frequency":"2"
+        }      ]   },  "Cluster129":
+  { 
+    "id":"129",
+    "Document":
+      [
+        {          "Word":"coupons",
+          "Frequency":"10"
+        },
+        {          "Word":"discount",
+          "Frequency":"8"
+        },
+        {          "Word":"generic",
+          "Frequency":"6"
+        },
+        {          "Word":"januvia",
+          "Frequency":"8"
+        },
+        {          "Word":"pharmacy",
+          "Frequency":"6"
+        },
+        {          "Word":"singulair",
+          "Frequency":"11"
+        },
+        {          "Word":"western",
+          "Frequency":"6"
+        }      ]   },  "Cluster128":
+  { 
+    "id":"128",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"5"
+        }      ]   },  "Cluster131":
+  { 
+    "id":"131",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"blaes",
+          "Frequency":"2"
+        },
+        {          "Word":"lik",
+          "Frequency":"2"
+        },
+        {          "Word":"tasts",
+          "Frequency":"2"
+        }      ]   },  "Cluster130":
+  { 
+    "id":"130",
+    "Document":
+      [
+        {          "Word":"hcl",
+          "Frequency":"2"
+        },
+        {          "Word":"high",
+          "Frequency":"2"
+        },
+        {          "Word":"hydroxyzine",
+          "Frequency":"4"
+        },
+        {          "Word":"isordil",
+          "Frequency":"2"
+        },
+        {          "Word":"singulair",
+          "Frequency":"2"
+        },
+        {          "Word":"together",
+          "Frequency":"2"
+        }      ]   },  "Cluster133":
+  { 
+    "id":"133",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"17"
+        },
+        {          "Word":"damn",
+          "Frequency":"14"
+        }      ]   },  "Cluster132":
+  { 
+    "id":"132",
+    "Document":
+      [
+        {          "Word":"colon",
+          "Frequency":"6"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"4"
+        },
+        {          "Word":"singulair",
+          "Frequency":"8"
+        },
+        {          "Word":"take",
+          "Frequency":"4"
+        },
+        {          "Word":"via",
+          "Frequency":"4"
+        }      ]   },  "Cluster135":
+  { 
+    "id":"135",
+    "Document":
+      [
+        {          "Word":"avodart",
+          "Frequency":"4"
+        },
+        {          "Word":"benign",
+          "Frequency":"2"
+        },
+        {          "Word":"finpecia",
+          "Frequency":"2"
+        },
+        {          "Word":"hyperplasia",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"medication",
+          "Frequency":"2"
+        },
+        {          "Word":"prostatic",
+          "Frequency":"2"
+        }      ]   },  "Cluster134":
+  { 
+    "id":"134",
+    "Document":
+      [
+        {          "Word":"antidepressant",
+          "Frequency":"2"
+        },
+        {          "Word":"arthritis",
+          "Frequency":"2"
+        },
+        {          "Word":"buy",
+          "Frequency":"2"
+        },
+        {          "Word":"canada",
+          "Frequency":"2"
+        },
+        {          "Word":"companies",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"drug",
+          "Frequency":"2"
+        },
+        {          "Word":"fedex",
+          "Frequency":"2"
+        },
+        {          "Word":"generic",
+          "Frequency":"2"
+        },
+        {          "Word":"give",
+          "Frequency":"2"
+        },
+        {          "Word":"internet",
+          "Frequency":"2"
+        },
+        {          "Word":"marketing",
+          "Frequency":"4"
+        },
+        {          "Word":"medication",
+          "Frequency":"2"
+        },
+        {          "Word":"never",
+          "Frequency":"2"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"4"
+        },
+        {          "Word":"now",
+          "Frequency":"2"
+        },
+        {          "Word":"tablet",
+          "Frequency":"2"
+        },
+        {          "Word":"weekly",
+          "Frequency":"2"
+        }      ]   },  "Cluster152":
+  { 
+    "id":"152",
+    "Document":
+      [
+        {          "Word":"altace",
+          "Frequency":"4"
+        },
+        {          "Word":"blood",
+          "Frequency":"2"
+        },
+        {          "Word":"interactions",
+          "Frequency":"2"
+        },
+        {          "Word":"kole",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"plavix",
+          "Frequency":"2"
+        },
+        {          "Word":"topol",
+          "Frequency":"2"
+        },
+        {          "Word":"withdrawal",
+          "Frequency":"2"
+        }      ]   },  "Cluster153":
+  { 
+    "id":"153",
+    "Document":
+      [
+        {          "Word":"celexa",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"faq",
+          "Frequency":"2"
+        },
+        {          "Word":"luv",
+          "Frequency":"2"
+        },
+        {          "Word":"switching",
+          "Frequency":"2"
+        }      ]   },  "Cluster154":
+  { 
+    "id":"154",
+    "Document":
+      [
+        {          "Word":"buy",
+          "Frequency":"2"
+        },
+        {          "Word":"circuit",
+          "Frequency":"2"
+        },
+        {          "Word":"city",
+          "Frequency":"2"
+        },
+        {          "Word":"cod",
+          "Frequency":"2"
+        },
+        {          "Word":"hsn",
+          "Frequency":"2"
+        },
+        {          "Word":"mexico",
+          "Frequency":"2"
+        },
+        {          "Word":"online",
+          "Frequency":"2"
+        },
+        {          "Word":"order",
+          "Frequency":"2"
+        },
+        {          "Word":"pill",
+          "Frequency":"2"
+        },
+        {          "Word":"saturday",
+          "Frequency":"2"
+        },
+        {          "Word":"shipping",
+          "Frequency":"2"
+        },
+        {          "Word":"singulair",
+          "Frequency":"4"
+        }      ]   },  "Cluster155":
+  { 
+    "id":"155",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"6"
+        },
+        {          "Word":"thats",
+          "Frequency":"6"
+        },
+        {          "Word":"theres",
+          "Frequency":"6"
+        }      ]   },  "Cluster156":
+  { 
+    "id":"156",
+    "Document":
+      [
+        {          "Word":"dosage",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"online",
+          "Frequency":"2"
+        },
+        {          "Word":"overnight",
+          "Frequency":"2"
+        },
+        {          "Word":"pill",
+          "Frequency":"2"
+        },
+        {          "Word":"prescription",
+          "Frequency":"2"
+        },
+        {          "Word":"vermont",
+          "Frequency":"2"
+        },
+        {          "Word":"wsj",
+          "Frequency":"2"
+        },
+        {          "Word":"zocor",
+          "Frequency":"4"
+        }      ]   },  "Cluster157":
+  { 
+    "id":"157",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"12"
+        },
+        {          "Word":"savella",
+          "Frequency":"14"
+        }      ]   },  "Cluster158":
+  { 
+    "id":"158",
+    "Document":
+      [
+        {          "Word":"lopressor",
+          "Frequency":"6"
+        },
+        {          "Word":"online",
+          "Frequency":"3"
+        }      ]   },  "Cluster159":
+  { 
+    "id":"159",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"18"
+        },
+        {          "Word":"give",
+          "Frequency":"10"
+        },
+        {          "Word":"tweet",
+          "Frequency":"9"
+        }      ]   },  "Cluster144":
+  { 
+    "id":"144",
+    "Document":
+      [
+        {          "Word":"chefboyarrde",
+          "Frequency":"4"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"8"
+        },
+        {          "Word":"depression",
+          "Frequency":"6"
+        },
+        {          "Word":"help",
+          "Frequency":"8"
+        },
+        {          "Word":"hurts",
+          "Frequency":"6"
+        },
+        {          "Word":"lmfaoooo",
+          "Frequency":"6"
+        }      ]   },  "Cluster145":
+  { 
+    "id":"145",
+    "Document":
+      [
+        {          "Word":"atorvastatin",
+          "Frequency":"2"
+        },
+        {          "Word":"case",
+          "Frequency":"2"
+        },
+        {          "Word":"glucophage",
+          "Frequency":"4"
+        },
+        {          "Word":"grapefruit",
+          "Frequency":"2"
+        },
+        {          "Word":"hunger",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"4"
+        },
+        {          "Word":"over",
+          "Frequency":"2"
+        },
+        {          "Word":"preeclampsia",
+          "Frequency":"4"
+        }      ]   },  "Cluster146":
+  { 
+    "id":"146",
+    "Document":
+      [
+        {          "Word":"atorvastatin",
+          "Frequency":"8"
+        },
+        {          "Word":"iupac",
+          "Frequency":"4"
+        },
+        {          "Word":"name",
+          "Frequency":"4"
+        }      ]   },  "Cluster147":
+  { 
+    "id":"147",
+    "Document":
+      [
+        {          "Word":"anam",
+          "Frequency":"2"
+        },
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"yad",
+          "Frequency":"2"
+        }      ]   },  "Cluster148":
+  { 
+    "id":"148",
+    "Document":
+      [
+        {          "Word":"copd",
+          "Frequency":"4"
+        },
+        {          "Word":"singulair",
+          "Frequency":"8"
+        }      ]   },  "Cluster149":
+  { 
+    "id":"149",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"6"
+        },
+        {          "Word":"help",
+          "Frequency":"6"
+        },
+        {          "Word":"hurts",
+          "Frequency":"6"
+        },
+        {          "Word":"rejection",
+          "Frequency":"6"
+        }      ]   },  "Cluster150":
+  { 
+    "id":"150",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"6"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"3"
+        },
+        {          "Word":"medications",
+          "Frequency":"6"
+        },
+        {          "Word":"much",
+          "Frequency":"3"
+        }      ]   },  "Cluster151":
+  { 
+    "id":"151",
+    "Document":
+      [
+        {          "Word":"considering",
+          "Frequency":"4"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"seriously",
+          "Frequency":"4"
+        },
+        {          "Word":"taking",
+          "Frequency":"4"
+        }      ]   },  "Cluster171":
+  { 
+    "id":"171",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"effects",
+          "Frequency":"2"
+        },
+        {          "Word":"europe",
+          "Frequency":"2"
+        },
+        {          "Word":"good",
+          "Frequency":"2"
+        },
+        {          "Word":"side",
+          "Frequency":"2"
+        },
+        {          "Word":"sleep",
+          "Frequency":"2"
+        }      ]   },  "Cluster170":
+  { 
+    "id":"170",
+    "Document":
+      [
+        {          "Word":"cholesterol",
+          "Frequency":"2"
+        },
+        {          "Word":"grapefruit",
+          "Frequency":"2"
+        },
+        {          "Word":"hip",
+          "Frequency":"2"
+        },
+        {          "Word":"juice",
+          "Frequency":"2"
+        },
+        {          "Word":"knee",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"4"
+        },
+        {          "Word":"lower",
+          "Frequency":"2"
+        },
+        {          "Word":"pain",
+          "Frequency":"2"
+        },
+        {          "Word":"pricing",
+          "Frequency":"2"
+        },
+        {          "Word":"via",
+          "Frequency":"2"
+        }      ]   },  "Cluster169":
+  { 
+    "id":"169",
+    "Document":
+      [
+        {          "Word":"norvasc",
+          "Frequency":"2"
+        },
+        {          "Word":"ocella",
+          "Frequency":"2"
+        },
+        {          "Word":"order",
+          "Frequency":"2"
+        },
+        {          "Word":"select",
+          "Frequency":"2"
+        },
+        {          "Word":"versus",
+          "Frequency":"2"
+        },
+        {          "Word":"zocor",
+          "Frequency":"4"
+        }      ]   },  "Cluster168":
+  { 
+    "id":"168",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"4"
+        },
+        {          "Word":"besylate",
+          "Frequency":"2"
+        },
+        {          "Word":"firbrosis",
+          "Frequency":"2"
+        },
+        {          "Word":"generic",
+          "Frequency":"2"
+        },
+        {          "Word":"name",
+          "Frequency":"2"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"2"
+        },
+        {          "Word":"retroperitoneal",
+          "Frequency":"2"
+        },
+        {          "Word":"tabs",
+          "Frequency":"2"
+        }      ]   },  "Cluster175":
+  { 
+    "id":"175",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"benicar",
+          "Frequency":"4"
+        },
+        {          "Word":"drug",
+          "Frequency":"2"
+        },
+        {          "Word":"equals",
+          "Frequency":"2"
+        },
+        {          "Word":"identifier",
+          "Frequency":"2"
+        },
+        {          "Word":"interactions",
+          "Frequency":"2"
+        },
+        {          "Word":"pill",
+          "Frequency":"2"
+        },
+        {          "Word":"valsatan",
+          "Frequency":"2"
+        },
+        {          "Word":"via",
+          "Frequency":"2"
+        }      ]   },  "Cluster174":
+  { 
+    "id":"174",
+    "Document":
+      [
+        {          "Word":"coating",
+          "Frequency":"2"
+        },
+        {          "Word":"high",
+          "Frequency":"2"
+        },
+        {          "Word":"nbc",
+          "Frequency":"2"
+        },
+        {          "Word":"singulair",
+          "Frequency":"4"
+        },
+        {          "Word":"symptoms",
+          "Frequency":"2"
+        }      ]   },  "Cluster173":
+  { 
+    "id":"173",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"over",
+          "Frequency":"2"
+        },
+        {          "Word":"tca",
+          "Frequency":"2"
+        }      ]   },  "Cluster172":
+  { 
+    "id":"172",
+    "Document":
+      [
+        {          "Word":"budeprion",
+          "Frequency":"4"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"drug",
+          "Frequency":"2"
+        },
+        {          "Word":"equals",
+          "Frequency":"2"
+        },
+        {          "Word":"hcl",
+          "Frequency":"2"
+        }      ]   },  "Cluster163":
+  { 
+    "id":"163",
+    "Document":
+      [
+        {          "Word":"benefit",
+          "Frequency":"6"
+        },
+        {          "Word":"biggest",
+          "Frequency":"4"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"6"
+        },
+        {          "Word":"effect",
+          "Frequency":"4"
+        },
+        {          "Word":"except",
+          "Frequency":"4"
+        },
+        {          "Word":"improvement",
+          "Frequency":"6"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"4"
+        },
+        {          "Word":"ltra",
+          "Frequency":"4"
+        },
+        {          "Word":"montelukast",
+          "Frequency":"4"
+        },
+        {          "Word":"size",
+          "Frequency":"4"
+        },
+        {          "Word":"symptoms",
+          "Frequency":"4"
+        }      ]   },  "Cluster162":
+  { 
+    "id":"162",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"210"
+        },
+        {          "Word":"depression",
+          "Frequency":"108"
+        },
+        {          "Word":"help",
+          "Frequency":"196"
+        },
+        {          "Word":"hurts",
+          "Frequency":"136"
+        }      ]   },  "Cluster161":
+  { 
+    "id":"161",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"depression",
+          "Frequency":"2"
+        },
+        {          "Word":"help",
+          "Frequency":"2"
+        },
+        {          "Word":"hurts",
+          "Frequency":"2"
+        },
+        {          "Word":"meth",
+          "Frequency":"2"
+        }      ]   },  "Cluster160":
+  { 
+    "id":"160",
+    "Document":
+      [
+        {          "Word":"advertizing",
+          "Frequency":"18"
+        },
+        {          "Word":"buy",
+          "Frequency":"14"
+        },
+        {          "Word":"ceclor",
+          "Frequency":"12"
+        },
+        {          "Word":"che",
+          "Frequency":"12"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"15"
+        },
+        {          "Word":"delivery",
+          "Frequency":"12"
+        },
+        {          "Word":"saturday",
+          "Frequency":"12"
+        },
+        {          "Word":"without",
+          "Frequency":"20"
+        }      ]   },  "Cluster167":
+  { 
+    "id":"167",
+    "Document":
+      [
+        {          "Word":"azorstunning",
+          "Frequency":"4"
+        },
+        {          "Word":"azorun",
+          "Frequency":"4"
+        },
+        {          "Word":"boyarrived",
+          "Frequency":"4"
+        },
+        {          "Word":"casa",
+          "Frequency":"4"
+        },
+        {          "Word":"chico",
+          "Frequency":"6"
+        },
+        {          "Word":"guaporecien",
+          "Frequency":"4"
+        },
+        {          "Word":"home",
+          "Frequency":"4"
+        },
+        {          "Word":"llegado",
+          "Frequency":"4"
+        },
+        {          "Word":"muy",
+          "Frequency":"4"
+        },
+        {          "Word":"necesita",
+          "Frequency":"4"
+        },
+        {          "Word":"needs",
+          "Frequency":"4"
+        },
+        {          "Word":"perrera",
+          "Frequency":"4"
+        },
+        {          "Word":"una",
+          "Frequency":"4"
+        }      ]   },  "Cluster166":
+  { 
+    "id":"166",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"4"
+        },
+        {          "Word":"cost",
+          "Frequency":"4"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"3"
+        },
+        {          "Word":"duloxetine",
+          "Frequency":"4"
+        },
+        {          "Word":"iowa",
+          "Frequency":"4"
+        },
+        {          "Word":"online",
+          "Frequency":"6"
+        },
+        {          "Word":"via",
+          "Frequency":"4"
+        }      ]   },  "Cluster165":
+  { 
+    "id":"165",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"4"
+        },
+        {          "Word":"amlovasc",
+          "Frequency":"3"
+        },
+        {          "Word":"diarrhoea",
+          "Frequency":"3"
+        },
+        {          "Word":"norpseudoephedrine",
+          "Frequency":"2"
+        }      ]   },  "Cluster164":
+  { 
+    "id":"164",
+    "Document":
+      [
+        {          "Word":"buy",
+          "Frequency":"2"
+        },
+        {          "Word":"dis",
+          "Frequency":"3"
+        },
+        {          "Word":"effect",
+          "Frequency":"2"
+        },
+        {          "Word":"effects",
+          "Frequency":"2"
+        },
+        {          "Word":"internet",
+          "Frequency":"4"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"4"
+        },
+        {          "Word":"maryland",
+          "Frequency":"4"
+        },
+        {          "Word":"medicine",
+          "Frequency":"2"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"4"
+        },
+        {          "Word":"paypal",
+          "Frequency":"2"
+        },
+        {          "Word":"prescription",
+          "Frequency":"4"
+        },
+        {          "Word":"side",
+          "Frequency":"2"
+        },
+        {          "Word":"without",
+          "Frequency":"2"
+        }      ]   },  "Cluster186":
+  { 
+    "id":"186",
+    "Document":
+      [
+        {          "Word":"lipitor",
+          "Frequency":"4"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"4"
+        },
+        {          "Word":"performance",
+          "Frequency":"4"
+        },
+        {          "Word":"prescription",
+          "Frequency":"6"
+        },
+        {          "Word":"refill",
+          "Frequency":"6"
+        }      ]   },  "Cluster187":
+  { 
+    "id":"187",
+    "Document":
+      [
+        {          "Word":"compare",
+          "Frequency":"2"
+        },
+        {          "Word":"crestor",
+          "Frequency":"2"
+        },
+        {          "Word":"cutter",
+          "Frequency":"3"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"pill",
+          "Frequency":"3"
+        },
+        {          "Word":"zocor",
+          "Frequency":"4"
+        }      ]   },  "Cluster184":
+  { 
+    "id":"184",
+    "Document":
+      [
+        {          "Word":"keeps",
+          "Frequency":"4"
+        },
+        {          "Word":"proair",
+          "Frequency":"8"
+        },
+        {          "Word":"singulair",
+          "Frequency":"6"
+        }      ]   },  "Cluster185":
+  { 
+    "id":"185",
+    "Document":
+      [
+        {          "Word":"barr",
+          "Frequency":"2"
+        },
+        {          "Word":"cause",
+          "Frequency":"3"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"4"
+        },
+        {          "Word":"loss",
+          "Frequency":"3"
+        },
+        {          "Word":"weight",
+          "Frequency":"3"
+        }      ]   },  "Cluster190":
+  { 
+    "id":"190",
+    "Document":
+      [
+        {          "Word":"atorvastatin",
+          "Frequency":"4"
+        },
+        {          "Word":"calcium",
+          "Frequency":"2"
+        },
+        {          "Word":"class",
+          "Frequency":"2"
+        },
+        {          "Word":"dose",
+          "Frequency":"2"
+        },
+        {          "Word":"drug",
+          "Frequency":"2"
+        },
+        {          "Word":"exporting",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"3"
+        }      ]   },  "Cluster191":
+  { 
+    "id":"191",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"4"
+        },
+        {          "Word":"besylat",
+          "Frequency":"2"
+        },
+        {          "Word":"besylate",
+          "Frequency":"2"
+        },
+        {          "Word":"toprol",
+          "Frequency":"2"
+        }      ]   },  "Cluster188":
+  { 
+    "id":"188",
+    "Document":
+      [
+        {          "Word":"chords",
+          "Frequency":"2"
+        },
+        {          "Word":"excedrin",
+          "Frequency":"2"
+        },
+        {          "Word":"order",
+          "Frequency":"2"
+        },
+        {          "Word":"safety",
+          "Frequency":"2"
+        },
+        {          "Word":"singulair",
+          "Frequency":"4"
+        }      ]   },  "Cluster189":
+  { 
+    "id":"189",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"4"
+        },
+        {          "Word":"benefits",
+          "Frequency":"2"
+        },
+        {          "Word":"ckd",
+          "Frequency":"2"
+        },
+        {          "Word":"crestor",
+          "Frequency":"2"
+        },
+        {          "Word":"dosage",
+          "Frequency":"2"
+        },
+        {          "Word":"medication",
+          "Frequency":"2"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"2"
+        }      ]   },  "Cluster178":
+  { 
+    "id":"178",
+    "Document":
+      [
+        {          "Word":"amilodipine",
+          "Frequency":"2"
+        },
+        {          "Word":"atorvastatin",
+          "Frequency":"4"
+        },
+        {          "Word":"discriminate",
+          "Frequency":"2"
+        },
+        {          "Word":"tablets",
+          "Frequency":"2"
+        }      ]   },  "Cluster179":
+  { 
+    "id":"179",
+    "Document":
+      [
+        {          "Word":"breathe",
+          "Frequency":"6"
+        },
+        {          "Word":"inhalation",
+          "Frequency":"7"
+        },
+        {          "Word":"montelukast",
+          "Frequency":"5"
+        },
+        {          "Word":"singulair",
+          "Frequency":"8"
+        }      ]   },  "Cluster176":
+  { 
+    "id":"176",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"12"
+        },
+        {          "Word":"lot",
+          "Frequency":"8"
+        }      ]   },  "Cluster177":
+  { 
+    "id":"177",
+    "Document":
+      [
+        {          "Word":"singulair",
+          "Frequency":"6"
+        },
+        {          "Word":"take",
+          "Frequency":"6"
+        }      ]   },  "Cluster182":
+  { 
+    "id":"182",
+    "Document":
+      [
+        {          "Word":"france",
+          "Frequency":"2"
+        },
+        {          "Word":"migraines",
+          "Frequency":"2"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"4"
+        },
+        {          "Word":"online",
+          "Frequency":"2"
+        },
+        {          "Word":"overnight",
+          "Frequency":"2"
+        },
+        {          "Word":"pharmacy",
+          "Frequency":"2"
+        },
+        {          "Word":"shop",
+          "Frequency":"2"
+        },
+        {          "Word":"verizon",
+          "Frequency":"2"
+        },
+        {          "Word":"via",
+          "Frequency":"2"
+        },
+        {          "Word":"wireless",
+          "Frequency":"2"
+        }      ]   },  "Cluster183":
+  { 
+    "id":"183",
+    "Document":
+      [
+        {          "Word":"lipitor",
+          "Frequency":"3"
+        },
+        {          "Word":"lisinopril",
+          "Frequency":"2"
+        },
+        {          "Word":"through",
+          "Frequency":"2"
+        },
+        {          "Word":"triamterene",
+          "Frequency":"4"
+        }      ]   },  "Cluster180":
+  { 
+    "id":"180",
+    "Document":
+      [
+        {          "Word":"cholesterol",
+          "Frequency":"2"
+        },
+        {          "Word":"drinks",
+          "Frequency":"2"
+        },
+        {          "Word":"drug",
+          "Frequency":"2"
+        },
+        {          "Word":"energy",
+          "Frequency":"2"
+        },
+        {          "Word":"interactions",
+          "Frequency":"2"
+        },
+        {          "Word":"levels",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"niacin",
+          "Frequency":"4"
+        }      ]   },  "Cluster181":
+  { 
+    "id":"181",
+    "Document":
+      [
+        {          "Word":"bestatin",
+          "Frequency":"2"
+        },
+        {          "Word":"crestor",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"zimmex",
+          "Frequency":"2"
+        }      ]   },  "Cluster205":
+  { 
+    "id":"205",
+    "Document":
+      [
+        {          "Word":"lipitor",
+          "Frequency":"34"
+        },
+        {          "Word":"mkt",
+          "Frequency":"30"
+        },
+        {          "Word":"production",
+          "Frequency":"38"
+        },
+        {          "Word":"ranbaxy",
+          "Frequency":"38"
+        },
+        {          "Word":"restarts",
+          "Frequency":"38"
+        }      ]   },  "Cluster204":
+  { 
+    "id":"204",
+    "Document":
+      [
+        {          "Word":"bennychoppa",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"depression",
+          "Frequency":"2"
+        },
+        {          "Word":"help",
+          "Frequency":"2"
+        }      ]   },  "Cluster207":
+  { 
+    "id":"207",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"take",
+          "Frequency":"2"
+        },
+        {          "Word":"ybet",
+          "Frequency":"2"
+        }      ]   },  "Cluster206":
+  { 
+    "id":"206",
+    "Document":
+      [
+        {          "Word":"broken",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"depression",
+          "Frequency":"2"
+        },
+        {          "Word":"gutair",
+          "Frequency":"2"
+        },
+        {          "Word":"help",
+          "Frequency":"4"
+        },
+        {          "Word":"hurts",
+          "Frequency":"2"
+        },
+        {          "Word":"really",
+          "Frequency":"4"
+        }      ]   },  "Cluster201":
+  { 
+    "id":"201",
+    "Document":
+      [
+        {          "Word":"articulo",
+          "Frequency":"2"
+        },
+        {          "Word":"checa",
+          "Frequency":"2"
+        },
+        {          "Word":"este",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"neuropatias",
+          "Frequency":"2"
+        },
+        {          "Word":"sobre",
+          "Frequency":"2"
+        }      ]   },  "Cluster200":
+  { 
+    "id":"200",
+    "Document":
+      [
+        {          "Word":"dinner",
+          "Frequency":"6"
+        },
+        {          "Word":"eggs",
+          "Frequency":"4"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"8"
+        }      ]   },  "Cluster203":
+  { 
+    "id":"203",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"help",
+          "Frequency":"2"
+        },
+        {          "Word":"hurts",
+          "Frequency":"2"
+        },
+        {          "Word":"ziall",
+          "Frequency":"2"
+        }      ]   },  "Cluster202":
+  { 
+    "id":"202",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"8"
+        },
+        {          "Word":"dont",
+          "Frequency":"7"
+        },
+        {          "Word":"favoredretweeted",
+          "Frequency":"4"
+        },
+        {          "Word":"guess",
+          "Frequency":"8"
+        },
+        {          "Word":"mirrelle",
+          "Frequency":"4"
+        },
+        {          "Word":"need",
+          "Frequency":"6"
+        },
+        {          "Word":"tanya",
+          "Frequency":"4"
+        },
+        {          "Word":"well",
+          "Frequency":"4"
+        }      ]   },  "Cluster197":
+  { 
+    "id":"197",
+    "Document":
+      [
+        {          "Word":"aangeboden",
+          "Frequency":"2"
+        },
+        {          "Word":"almere",
+          "Frequency":"2"
+        },
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"dames",
+          "Frequency":"2"
+        },
+        {          "Word":"datum",
+          "Frequency":"2"
+        },
+        {          "Word":"fiets",
+          "Frequency":"2"
+        },
+        {          "Word":"goede",
+          "Frequency":"2"
+        },
+        {          "Word":"hierbij",
+          "Frequency":"2"
+        },
+        {          "Word":"prijs",
+          "Frequency":"2"
+        },
+        {          "Word":"staat",
+          "Frequency":"2"
+        },
+        {          "Word":"vandaag",
+          "Frequency":"2"
+        },
+        {          "Word":"zeer",
+          "Frequency":"2"
+        }      ]   },  "Cluster196":
+  { 
+    "id":"196",
+    "Document":
+      [
+        {          "Word":"cfc",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"depressing",
+          "Frequency":"2"
+        },
+        {          "Word":"depressiongame",
+          "Frequency":"2"
+        },
+        {          "Word":"need",
+          "Frequency":"2"
+        },
+        {          "Word":"overdose",
+          "Frequency":"2"
+        },
+        {          "Word":"wammmming",
+          "Frequency":"2"
+        }      ]   },  "Cluster199":
+  { 
+    "id":"199",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"beet",
+          "Frequency":"2"
+        },
+        {          "Word":"nefsi",
+          "Frequency":"2"
+        },
+        {          "Word":"rbna",
+          "Frequency":"2"
+        },
+        {          "Word":"wyyyyyy",
+          "Frequency":"2"
+        }      ]   },  "Cluster198":
+  { 
+    "id":"198",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"depresion",
+          "Frequency":"2"
+        },
+        {          "Word":"help",
+          "Frequency":"2"
+        },
+        {          "Word":"huts",
+          "Frequency":"2"
+        }      ]   },  "Cluster193":
+  { 
+    "id":"193",
+    "Document":
+      [
+        {          "Word":"drug",
+          "Frequency":"2"
+        },
+        {          "Word":"medication",
+          "Frequency":"2"
+        },
+        {          "Word":"mexico",
+          "Frequency":"2"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"4"
+        },
+        {          "Word":"online",
+          "Frequency":"2"
+        },
+        {          "Word":"order",
+          "Frequency":"2"
+        },
+        {          "Word":"prescription",
+          "Frequency":"2"
+        },
+        {          "Word":"theophylline",
+          "Frequency":"2"
+        },
+        {          "Word":"without",
+          "Frequency":"2"
+        }      ]   },  "Cluster192":
+  { 
+    "id":"192",
+    "Document":
+      [
+        {          "Word":"bajo",
+          "Frequency":"2"
+        },
+        {          "Word":"importa",
+          "Frequency":"2"
+        },
+        {          "Word":"ldl",
+          "Frequency":"3"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"mesesluego",
+          "Frequency":"2"
+        },
+        {          "Word":"ocupa",
+          "Frequency":"2"
+        },
+        {          "Word":"que",
+          "Frequency":"2"
+        },
+        {          "Word":"resumenlo",
+          "Frequency":"2"
+        },
+        {          "Word":"segn",
+          "Frequency":"2"
+        },
+        {          "Word":"slo",
+          "Frequency":"2"
+        },
+        {          "Word":"tener",
+          "Frequency":"2"
+        }      ]   },  "Cluster195":
+  { 
+    "id":"195",
+    "Document":
+      [
+        {          "Word":"code",
+          "Frequency":"2"
+        },
+        {          "Word":"effects",
+          "Frequency":"2"
+        },
+        {          "Word":"hcpcs",
+          "Frequency":"2"
+        },
+        {          "Word":"januvia",
+          "Frequency":"4"
+        },
+        {          "Word":"phosphate",
+          "Frequency":"2"
+        },
+        {          "Word":"side",
+          "Frequency":"2"
+        },
+        {          "Word":"sitagliptin",
+          "Frequency":"3"
+        }      ]   },  "Cluster194":
+  { 
+    "id":"194",
+    "Document":
+      [
+        {          "Word":"alerts",
+          "Frequency":"2"
+        },
+        {          "Word":"cost",
+          "Frequency":"2"
+        },
+        {          "Word":"fast",
+          "Frequency":"2"
+        },
+        {          "Word":"januvia",
+          "Frequency":"4"
+        },
+        {          "Word":"low",
+          "Frequency":"2"
+        },
+        {          "Word":"medic",
+          "Frequency":"2"
+        },
+        {          "Word":"work",
+          "Frequency":"2"
+        }      ]   },  "Cluster220":
+  { 
+    "id":"220",
+    "Document":
+      [
+        {          "Word":"clooney",
+          "Frequency":"2"
+        },
+        {          "Word":"dad",
+          "Frequency":"2"
+        },
+        {          "Word":"dont",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"middleaged",
+          "Frequency":"2"
+        }      ]   },  "Cluster221":
+  { 
+    "id":"221",
+    "Document":
+      [
+        {          "Word":"antiasmtico",
+          "Frequency":"4"
+        },
+        {          "Word":"crear",
+          "Frequency":"4"
+        },
+        {          "Word":"efg",
+          "Frequency":"6"
+        },
+        {          "Word":"genrico",
+          "Frequency":"6"
+        },
+        {          "Word":"medicamento",
+          "Frequency":"4"
+        },
+        {          "Word":"montelukast",
+          "Frequency":"6"
+        },
+        {          "Word":"primer",
+          "Frequency":"4"
+        },
+        {          "Word":"sandoz",
+          "Frequency":"3"
+        },
+        {          "Word":"singulair",
+          "Frequency":"4"
+        },
+        {          "Word":"stada",
+          "Frequency":"6"
+        }      ]   },  "Cluster222":
+  { 
+    "id":"222",
+    "Document":
+      [
+        {          "Word":"atorvastatin",
+          "Frequency":"6"
+        },
+        {          "Word":"commenced",
+          "Frequency":"6"
+        },
+        {          "Word":"company",
+          "Frequency":"6"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"6"
+        },
+        {          "Word":"positive",
+          "Frequency":"6"
+        },
+        {          "Word":"production",
+          "Frequency":"6"
+        },
+        {          "Word":"ranbaxy",
+          "Frequency":"6"
+        }      ]   },  "Cluster223":
+  { 
+    "id":"223",
+    "Document":
+      [
+        {          "Word":"bus",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"need",
+          "Frequency":"2"
+        },
+        {          "Word":"now",
+          "Frequency":"2"
+        },
+        {          "Word":"stop",
+          "Frequency":"2"
+        }      ]   },  "Cluster216":
+  { 
+    "id":"216",
+    "Document":
+      [
+        {          "Word":"announcement",
+          "Frequency":"52"
+        },
+        {          "Word":"generic",
+          "Frequency":"52"
+        },
+        {          "Word":"hsbc",
+          "Frequency":"68"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"52"
+        },
+        {          "Word":"overweight",
+          "Frequency":"52"
+        },
+        {          "Word":"ranbaxy",
+          "Frequency":"56"
+        },
+        {          "Word":"ups",
+          "Frequency":"52"
+        }      ]   },  "Cluster217":
+  { 
+    "id":"217",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"need",
+          "Frequency":"2"
+        },
+        {          "Word":"somethin",
+          "Frequency":"2"
+        }      ]   },  "Cluster218":
+  { 
+    "id":"218",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"mta",
+          "Frequency":"2"
+        },
+        {          "Word":"sonnn",
+          "Frequency":"2"
+        },
+        {          "Word":"tande",
+          "Frequency":"2"
+        },
+        {          "Word":"wouuuuuu",
+          "Frequency":"2"
+        }      ]   },  "Cluster219":
+  { 
+    "id":"219",
+    "Document":
+      [
+        {          "Word":"atorvastatin",
+          "Frequency":"2"
+        },
+        {          "Word":"commences",
+          "Frequency":"2"
+        },
+        {          "Word":"product",
+          "Frequency":"2"
+        },
+        {          "Word":"production",
+          "Frequency":"2"
+        }      ]   },  "Cluster212":
+  { 
+    "id":"212",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"6"
+        },
+        {          "Word":"lol",
+          "Frequency":"6"
+        }      ]   },  "Cluster213":
+  { 
+    "id":"213",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"jelekcoy",
+          "Frequency":"2"
+        }      ]   },  "Cluster214":
+  { 
+    "id":"214",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"help",
+          "Frequency":"5"
+        },
+        {          "Word":"wrong",
+          "Frequency":"4"
+        }      ]   },  "Cluster215":
+  { 
+    "id":"215",
+    "Document":
+      [
+        {          "Word":"uplifting",
+          "Frequency":"2"
+        }      ]   },  "Cluster208":
+  { 
+    "id":"208",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"16"
+        },
+        {          "Word":"depression",
+          "Frequency":"12"
+        },
+        {          "Word":"hurts",
+          "Frequency":"10"
+        },
+        {          "Word":"make",
+          "Frequency":"12"
+        },
+        {          "Word":"worse",
+          "Frequency":"12"
+        }      ]   },  "Cluster209":
+  { 
+    "id":"209",
+    "Document":
+      [
+        {          "Word":"bby",
+          "Frequency":"4"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"help",
+          "Frequency":"4"
+        }      ]   },  "Cluster210":
+  { 
+    "id":"210",
+    "Document":
+      [
+        {          "Word":"cass",
+          "Frequency":"4"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"status",
+          "Frequency":"4"
+        }      ]   },  "Cluster211":
+  { 
+    "id":"211",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"hernndez",
+          "Frequency":"2"
+        },
+        {          "Word":"juanma",
+          "Frequency":"2"
+        }      ]   },  "Cluster239":
+  { 
+    "id":"239",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"10"
+        },
+        {          "Word":"depression",
+          "Frequency":"6"
+        },
+        {          "Word":"niggas",
+          "Frequency":"8"
+        },
+        {          "Word":"shit",
+          "Frequency":"6"
+        }      ]   },  "Cluster238":
+  { 
+    "id":"238",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"hahahaha",
+          "Frequency":"2"
+        },
+        {          "Word":"help",
+          "Frequency":"2"
+        }      ]   },  "Cluster237":
+  { 
+    "id":"237",
+    "Document":
+      [
+        {          "Word":"ali",
+          "Frequency":"6"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"depression",
+          "Frequency":"4"
+        },
+        {          "Word":"emma",
+          "Frequency":"4"
+        },
+        {          "Word":"help",
+          "Frequency":"4"
+        },
+        {          "Word":"hurts",
+          "Frequency":"4"
+        }      ]   },  "Cluster236":
+  { 
+    "id":"236",
+    "Document":
+      [
+        {          "Word":"arts",
+          "Frequency":"6"
+        },
+        {          "Word":"center",
+          "Frequency":"6"
+        },
+        {          "Word":"ema",
+          "Frequency":"4"
+        },
+        {          "Word":"lynne",
+          "Frequency":"6"
+        },
+        {          "Word":"sharon",
+          "Frequency":"6"
+        },
+        {          "Word":"singulair",
+          "Frequency":"4"
+        },
+        {          "Word":"wilson",
+          "Frequency":"6"
+        }      ]   },  "Cluster235":
+  { 
+    "id":"235",
+    "Document":
+      [
+        {          "Word":"course",
+          "Frequency":"2"
+        },
+        {          "Word":"flameado",
+          "Frequency":"2"
+        },
+        {          "Word":"flamed",
+          "Frequency":"2"
+        },
+        {          "Word":"garnish",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"4"
+        },
+        {          "Word":"ninfas",
+          "Frequency":"4"
+        },
+        {          "Word":"original",
+          "Frequency":"4"
+        },
+        {          "Word":"queso",
+          "Frequency":"4"
+        },
+        {          "Word":"well",
+          "Frequency":"4"
+        }      ]   },  "Cluster234":
+  { 
+    "id":"234",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"help",
+          "Frequency":"4"
+        },
+        {          "Word":"lololol",
+          "Frequency":"4"
+        },
+        {          "Word":"naayhomie",
+          "Frequency":"4"
+        }      ]   },  "Cluster233":
+  { 
+    "id":"233",
+    "Document":
+      [
+        {          "Word":"commercial",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"depresses",
+          "Frequency":"2"
+        }      ]   },  "Cluster232":
+  { 
+    "id":"232",
+    "Document":
+      [
+        {          "Word":"com",
+          "Frequency":"6"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"3"
+        },
+        {          "Word":"gtgtgt",
+          "Frequency":"4"
+        }      ]   },  "Cluster231":
+  { 
+    "id":"231",
+    "Document":
+      [
+        {          "Word":"berts",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"depression",
+          "Frequency":"2"
+        },
+        {          "Word":"ernie",
+          "Frequency":"2"
+        }      ]   },  "Cluster230":
+  { 
+    "id":"230",
+    "Document":
+      [
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"wayman",
+          "Frequency":"2"
+        }      ]   },  "Cluster229":
+  { 
+    "id":"229",
+    "Document":
+      [
+        {          "Word":"analysis",
+          "Frequency":"52"
+        },
+        {          "Word":"byetta",
+          "Frequency":"94"
+        },
+        {          "Word":"diabetes",
+          "Frequency":"61"
+        },
+        {          "Word":"double",
+          "Frequency":"92"
+        },
+        {          "Word":"finds",
+          "Frequency":"52"
+        },
+        {          "Word":"jama",
+          "Frequency":"58"
+        },
+        {          "Word":"januvia",
+          "Frequency":"94"
+        },
+        {          "Word":"pancreatitis",
+          "Frequency":"104"
+        },
+        {          "Word":"risk",
+          "Frequency":"102"
+        }      ]   },  "Cluster228":
+  { 
+    "id":"228",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"deadly",
+          "Frequency":"2"
+        },
+        {          "Word":"generic",
+          "Frequency":"2"
+        },
+        {          "Word":"hahaha",
+          "Frequency":"4"
+        },
+        {          "Word":"horny",
+          "Frequency":"2"
+        },
+        {          "Word":"make",
+          "Frequency":"2"
+        },
+        {          "Word":"mines",
+          "Frequency":"2"
+        },
+        {          "Word":"montelukast",
+          "Frequency":"2"
+        },
+        {          "Word":"name",
+          "Frequency":"2"
+        },
+        {          "Word":"ooh",
+          "Frequency":"2"
+        },
+        {          "Word":"pero",
+          "Frequency":"2"
+        },
+        {          "Word":"pills",
+          "Frequency":"2"
+        },
+        {          "Word":"siya",
+          "Frequency":"2"
+        },
+        {          "Word":"sleeping",
+          "Frequency":"2"
+        },
+        {          "Word":"sosy",
+          "Frequency":"2"
+        },
+        {          "Word":"sounds",
+          "Frequency":"4"
+        },
+        {          "Word":"yours",
+          "Frequency":"2"
+        }      ]   },  "Cluster227":
+  { 
+    "id":"227",
+    "Document":
+      [
+        {          "Word":"comment",
+          "Frequency":"2"
+        },
+        {          "Word":"friday",
+          "Frequency":"2"
+        },
+        {          "Word":"last",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"madam",
+          "Frequency":"2"
+        },
+        {          "Word":"overlooked",
+          "Frequency":"2"
+        },
+        {          "Word":"played",
+          "Frequency":"2"
+        },
+        {          "Word":"think",
+          "Frequency":"2"
+        },
+        {          "Word":"well",
+          "Frequency":"2"
+        },
+        {          "Word":"wittiness",
+          "Frequency":"2"
+        }      ]   },  "Cluster226":
+  { 
+    "id":"226",
+    "Document":
+      [
+        {          "Word":"amoureux",
+          "Frequency":"2"
+        },
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"mon",
+          "Frequency":"2"
+        },
+        {          "Word":"pour",
+          "Frequency":"3"
+        }      ]   },  "Cluster225":
+  { 
+    "id":"225",
+    "Document":
+      [
+        {          "Word":"back",
+          "Frequency":"32"
+        },
+        {          "Word":"gear",
+          "Frequency":"28"
+        },
+        {          "Word":"generic",
+          "Frequency":"31"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"31"
+        },
+        {          "Word":"production",
+          "Frequency":"28"
+        },
+        {          "Word":"ranbaxy",
+          "Frequency":"32"
+        }      ]   },  "Cluster224":
+  { 
+    "id":"224",
+    "Document":
+      [
+        {          "Word":"atorvastatin",
+          "Frequency":"8"
+        },
+        {          "Word":"marketplace",
+          "Frequency":"8"
+        },
+        {          "Word":"production",
+          "Frequency":"8"
+        },
+        {          "Word":"ranbaxy",
+          "Frequency":"8"
+        },
+        {          "Word":"resume",
+          "Frequency":"8"
+        }      ]   },  "Cluster254":
+  { 
+    "id":"254",
+    "Document":
+      [
+        {          "Word":"amlodipineatorvastatin",
+          "Frequency":"2"
+        },
+        {          "Word":"ams",
+          "Frequency":"2"
+        },
+        {          "Word":"caduet",
+          "Frequency":"2"
+        },
+        {          "Word":"shipping",
+          "Frequency":"2"
+        },
+        {          "Word":"storvas",
+          "Frequency":"2"
+        },
+        {          "Word":"worldwide",
+          "Frequency":"2"
+        }      ]   },  "Cluster255":
+  { 
+    "id":"255",
+    "Document":
+      [
+        {          "Word":"commercial",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"saturday",
+          "Frequency":"2"
+        },
+        {          "Word":"upsetting",
+          "Frequency":"2"
+        }      ]   },  "Cluster252":
+  { 
+    "id":"252",
+    "Document":
+      [
+        {          "Word":"crestor",
+          "Frequency":"2"
+        },
+        {          "Word":"lepur",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"maxudin",
+          "Frequency":"2"
+        },
+        {          "Word":"pravachol",
+          "Frequency":"2"
+        }      ]   },  "Cluster253":
+  { 
+    "id":"253",
+    "Document":
+      [
+        {          "Word":"clorfenaminas",
+          "Frequency":"2"
+        },
+        {          "Word":"comparte",
+          "Frequency":"2"
+        },
+        {          "Word":"montelukast",
+          "Frequency":"2"
+        },
+        {          "Word":"shiaz",
+          "Frequency":"2"
+        },
+        {          "Word":"sus",
+          "Frequency":"2"
+        }      ]   },  "Cluster250":
+  { 
+    "id":"250",
+    "Document":
+      [
+        {          "Word":"anlodipino",
+          "Frequency":"2"
+        },
+        {          "Word":"besilato",
+          "Frequency":"2"
+        },
+        {          "Word":"como",
+          "Frequency":"2"
+        },
+        {          "Word":"comprado",
+          "Frequency":"2"
+        },
+        {          "Word":"farmcias",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"miro",
+          "Frequency":"2"
+        },
+        {          "Word":"nas",
+          "Frequency":"2"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"2"
+        },
+        {          "Word":"pode",
+          "Frequency":"2"
+        },
+        {          "Word":"que",
+          "Frequency":"2"
+        },
+        {          "Word":"ser",
+          "Frequency":"4"
+        },
+        {          "Word":"tom",
+          "Frequency":"2"
+        },
+        {          "Word":"toreto",
+          "Frequency":"2"
+        }      ]   },  "Cluster251":
+  { 
+    "id":"251",
+    "Document":
+      [
+        {          "Word":"actavis",
+          "Frequency":"2"
+        },
+        {          "Word":"effect",
+          "Frequency":"2"
+        },
+        {          "Word":"generic",
+          "Frequency":"2"
+        },
+        {          "Word":"hits",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"4"
+        },
+        {          "Word":"profits",
+          "Frequency":"4"
+        },
+        {          "Word":"ranbaxy",
+          "Frequency":"2"
+        },
+        {          "Word":"recall",
+          "Frequency":"2"
+        },
+        {          "Word":"recedes",
+          "Frequency":"2"
+        },
+        {          "Word":"rise",
+          "Frequency":"2"
+        },
+        {          "Word":"sales",
+          "Frequency":"2"
+        },
+        {          "Word":"slump",
+          "Frequency":"2"
+        }      ]   },  "Cluster248":
+  { 
+    "id":"248",
+    "Document":
+      [
+        {          "Word":"aba",
+          "Frequency":"4"
+        },
+        {          "Word":"azor",
+          "Frequency":"4"
+        },
+        {          "Word":"skwlhm",
+          "Frequency":"4"
+        }      ]   },  "Cluster249":
+  { 
+    "id":"249",
+    "Document":
+      [
+        {          "Word":"drug",
+          "Frequency":"2"
+        },
+        {          "Word":"informaiton",
+          "Frequency":"2"
+        },
+        {          "Word":"norvasc",
+          "Frequency":"2"
+        }      ]   },  "Cluster246":
+  { 
+    "id":"246",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"ezay",
+          "Frequency":"2"
+        },
+        {          "Word":"matkhal",
+          "Frequency":"2"
+        },
+        {          "Word":"motsafek",
+          "Frequency":"2"
+        },
+        {          "Word":"weleya",
+          "Frequency":"2"
+        },
+        {          "Word":"yanii",
+          "Frequency":"2"
+        }      ]   },  "Cluster247":
+  { 
+    "id":"247",
+    "Document":
+      [
+        {          "Word":"audit",
+          "Frequency":"8"
+        },
+        {          "Word":"deacons",
+          "Frequency":"8"
+        },
+        {          "Word":"decisionmaking",
+          "Frequency":"8"
+        },
+        {          "Word":"high",
+          "Frequency":"8"
+        },
+        {          "Word":"korazor",
+          "Frequency":"8"
+        },
+        {          "Word":"late",
+          "Frequency":"8"
+        },
+        {          "Word":"news",
+          "Frequency":"4"
+        },
+        {          "Word":"records",
+          "Frequency":"8"
+        },
+        {          "Word":"revealed",
+          "Frequency":"8"
+        },
+        {          "Word":"scandal",
+          "Frequency":"8"
+        }      ]   },  "Cluster244":
+  { 
+    "id":"244",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"3"
+        },
+        {          "Word":"besylate",
+          "Frequency":"3"
+        },
+        {          "Word":"finevask",
+          "Frequency":"2"
+        }      ]   },  "Cluster245":
+  { 
+    "id":"245",
+    "Document":
+      [
+        {          "Word":"anggicau",
+          "Frequency":"2"
+        },
+        {          "Word":"atorvastatin",
+          "Frequency":"2"
+        },
+        {          "Word":"klenger",
+          "Frequency":"2"
+        },
+        {          "Word":"klolesterolll",
+          "Frequency":"2"
+        },
+        {          "Word":"kmh",
+          "Frequency":"2"
+        },
+        {          "Word":"mun",
+          "Frequency":"2"
+        },
+        {          "Word":"sedia",
+          "Frequency":"2"
+        },
+        {          "Word":"sudah",
+          "Frequency":"2"
+        }      ]   },  "Cluster242":
+  { 
+    "id":"242",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"depressed",
+          "Frequency":"2"
+        },
+        {          "Word":"facking",
+          "Frequency":"2"
+        },
+        {          "Word":"need",
+          "Frequency":"2"
+        }      ]   },  "Cluster243":
+  { 
+    "id":"243",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"help",
+          "Frequency":"4"
+        },
+        {          "Word":"stfu",
+          "Frequency":"4"
+        }      ]   },  "Cluster240":
+  { 
+    "id":"240",
+    "Document":
+      [
+        {          "Word":"ahai",
+          "Frequency":"8"
+        },
+        {          "Word":"azor",
+          "Frequency":"8"
+        },
+        {          "Word":"baratheon",
+          "Frequency":"6"
+        },
+        {          "Word":"stannis",
+          "Frequency":"6"
+        }      ]   },  "Cluster241":
+  { 
+    "id":"241",
+    "Document":
+      [
+        {          "Word":"coco",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"hipped",
+          "Frequency":"2"
+        }      ]   },  "Cluster275":
+  { 
+    "id":"275",
+    "Document":
+      [
+        {          "Word":"deui",
+          "Frequency":"2"
+        },
+        {          "Word":"food",
+          "Frequency":"2"
+        },
+        {          "Word":"jalan",
+          "Frequency":"2"
+        },
+        {          "Word":"kebanyakan",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"pegel",
+          "Frequency":"2"
+        },
+        {          "Word":"punuk",
+          "Frequency":"2"
+        },
+        {          "Word":"sushi",
+          "Frequency":"2"
+        },
+        {          "Word":"test",
+          "Frequency":"2"
+        }      ]   },  "Cluster274":
+  { 
+    "id":"274",
+    "Document":
+      [
+        {          "Word":"ahai",
+          "Frequency":"2"
+        },
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"fosse",
+          "Frequency":"2"
+        },
+        {          "Word":"vero",
+          "Frequency":"2"
+        },
+        {          "Word":"zingaretti",
+          "Frequency":"2"
+        }      ]   },  "Cluster273":
+  { 
+    "id":"273",
+    "Document":
+      [
+        {          "Word":"andalsogiveyouanalseapageandmakeyouwanttokillyourselfbutwhatevernobodyeverlistenstothesideeffects",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"depression",
+          "Frequency":"2"
+        },
+        {          "Word":"help",
+          "Frequency":"2"
+        },
+        {          "Word":"hurts",
+          "Frequency":"2"
+        }      ]   },  "Cluster272":
+  { 
+    "id":"272",
+    "Document":
+      [
+        {          "Word":"lipitor",
+          "Frequency":"3"
+        },
+        {          "Word":"online",
+          "Frequency":"2"
+        },
+        {          "Word":"prescr",
+          "Frequency":"2"
+        },
+        {          "Word":"purchase",
+          "Frequency":"2"
+        }      ]   },  "Cluster279":
+  { 
+    "id":"279",
+    "Document":
+      [
+        {          "Word":"beyond",
+          "Frequency":"2"
+        },
+        {          "Word":"imagination",
+          "Frequency":"2"
+        }      ]   },  "Cluster278":
+  { 
+    "id":"278",
+    "Document":
+      [
+        {          "Word":"braised",
+          "Frequency":"2"
+        },
+        {          "Word":"chickenlipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"cholesterol",
+          "Frequency":"2"
+        },
+        {          "Word":"dessertmmmmm",
+          "Frequency":"2"
+        },
+        {          "Word":"maccheese",
+          "Frequency":"2"
+        },
+        {          "Word":"porkbelly",
+          "Frequency":"2"
+        },
+        {          "Word":"wfried",
+          "Frequency":"2"
+        }      ]   },  "Cluster277":
+  { 
+    "id":"277",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"zmire",
+          "Frequency":"2"
+        }      ]   },  "Cluster276":
+  { 
+    "id":"276",
+    "Document":
+      [
+        {          "Word":"canada",
+          "Frequency":"2"
+        },
+        {          "Word":"insitwods",
+          "Frequency":"2"
+        },
+        {          "Word":"legality",
+          "Frequency":"2"
+        },
+        {          "Word":"playstation",
+          "Frequency":"2"
+        },
+        {          "Word":"preion",
+          "Frequency":"2"
+        },
+        {          "Word":"singulair",
+          "Frequency":"2"
+        }      ]   },  "Cluster283":
+  { 
+    "id":"283",
+    "Document":
+      [
+        {          "Word":"always",
+          "Frequency":"6"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"8"
+        },
+        {          "Word":"depressed",
+          "Frequency":"6"
+        },
+        {          "Word":"hahaha",
+          "Frequency":"6"
+        },
+        {          "Word":"need",
+          "Frequency":"6"
+        },
+        {          "Word":"something",
+          "Frequency":"8"
+        },
+        {          "Word":"think",
+          "Frequency":"8"
+        }      ]   },  "Cluster282":
+  { 
+    "id":"282",
+    "Document":
+      [
+        {          "Word":"basically",
+          "Frequency":"2"
+        },
+        {          "Word":"credit",
+          "Frequency":"2"
+        },
+        {          "Word":"module",
+          "Frequency":"2"
+        },
+        {          "Word":"online",
+          "Frequency":"2"
+        },
+        {          "Word":"requires",
+          "Frequency":"2"
+        }      ]   },  "Cluster281":
+  { 
+    "id":"281",
+    "Document":
+      [
+        {          "Word":"prescription",
+          "Frequency":"2"
+        },
+        {          "Word":"singulair",
+          "Frequency":"2"
+        },
+        {          "Word":"topills",
+          "Frequency":"2"
+        },
+        {          "Word":"without",
+          "Frequency":"2"
+        }      ]   },  "Cluster280":
+  { 
+    "id":"280",
+    "Document":
+      [
+        {          "Word":"bahbers",
+          "Frequency":"2"
+        },
+        {          "Word":"caption",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"funny",
+          "Frequency":"2"
+        },
+        {          "Word":"hahahahaha",
+          "Frequency":"2"
+        },
+        {          "Word":"help",
+          "Frequency":"2"
+        }      ]   },  "Cluster287":
+  { 
+    "id":"287",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"doppleganger",
+          "Frequency":"2"
+        }      ]   },  "Cluster286":
+  { 
+    "id":"286",
+    "Document":
+      [
+        {          "Word":"booze",
+          "Frequency":"2"
+        },
+        {          "Word":"chocolate",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"depression",
+          "Frequency":"2"
+        },
+        {          "Word":"drugs",
+          "Frequency":"2"
+        },
+        {          "Word":"help",
+          "Frequency":"2"
+        },
+        {          "Word":"hurts",
+          "Frequency":"2"
+        },
+        {          "Word":"lottery",
+          "Frequency":"2"
+        },
+        {          "Word":"sex",
+          "Frequency":"2"
+        },
+        {          "Word":"vacation",
+          "Frequency":"2"
+        },
+        {          "Word":"winning",
+          "Frequency":"2"
+        }      ]   },  "Cluster285":
+  { 
+    "id":"285",
+    "Document":
+      [
+        {          "Word":"ajaa",
+          "Frequency":"4"
+        },
+        {          "Word":"asa",
+          "Frequency":"4"
+        },
+        {          "Word":"azor",
+          "Frequency":"5"
+        },
+        {          "Word":"boleh",
+          "Frequency":"3"
+        },
+        {          "Word":"haha",
+          "Frequency":"6"
+        },
+        {          "Word":"hahart",
+          "Frequency":"3"
+        },
+        {          "Word":"langit",
+          "Frequency":"6"
+        },
+        {          "Word":"mah",
+          "Frequency":"4"
+        },
+        {          "Word":"sae",
+          "Frequency":"4"
+        },
+        {          "Word":"saed",
+          "Frequency":"4"
+        },
+        {          "Word":"susah",
+          "Frequency":"4"
+        }      ]   },  "Cluster284":
+  { 
+    "id":"284",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"need",
+          "Frequency":"2"
+        },
+        {          "Word":"sophie",
+          "Frequency":"2"
+        }      ]   },  "Cluster258":
+  { 
+    "id":"258",
+    "Document":
+      [
+        {          "Word":"hijo",
+          "Frequency":"6"
+        }      ]   },  "Cluster259":
+  { 
+    "id":"259",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"oddly",
+          "Frequency":"2"
+        },
+        {          "Word":"pfizer",
+          "Frequency":"2"
+        },
+        {          "Word":"products",
+          "Frequency":"2"
+        },
+        {          "Word":"wellbutrin",
+          "Frequency":"2"
+        }      ]   },  "Cluster256":
+  { 
+    "id":"256",
+    "Document":
+      [
+        {          "Word":"acute",
+          "Frequency":"16"
+        },
+        {          "Word":"byetta",
+          "Frequency":"14"
+        },
+        {          "Word":"diabetes",
+          "Frequency":"12"
+        },
+        {          "Word":"double",
+          "Frequency":"12"
+        },
+        {          "Word":"drugs",
+          "Frequency":"8"
+        },
+        {          "Word":"getting",
+          "Frequency":"14"
+        },
+        {          "Word":"glp",
+          "Frequency":"8"
+        },
+        {          "Word":"januvia",
+          "Frequency":"14"
+        },
+        {          "Word":"pancreatitis",
+          "Frequency":"12"
+        },
+        {          "Word":"people",
+          "Frequency":"8"
+        },
+        {          "Word":"risk",
+          "Frequency":"16"
+        },
+        {          "Word":"using",
+          "Frequency":"12"
+        }      ]   },  "Cluster257":
+  { 
+    "id":"257",
+    "Document":
+      [
+        {          "Word":"algebra",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"help",
+          "Frequency":"2"
+        },
+        {          "Word":"hurts",
+          "Frequency":"2"
+        }      ]   },  "Cluster262":
+  { 
+    "id":"262",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"4"
+        },
+        {          "Word":"depression",
+          "Frequency":"4"
+        },
+        {          "Word":"help",
+          "Frequency":"4"
+        },
+        {          "Word":"hurts",
+          "Frequency":"4"
+        },
+        {          "Word":"nick",
+          "Frequency":"4"
+        },
+        {          "Word":"through",
+          "Frequency":"4"
+        },
+        {          "Word":"together",
+          "Frequency":"4"
+        }      ]   },  "Cluster263":
+  { 
+    "id":"263",
+    "Document":
+      [
+        {          "Word":"ask",
+          "Frequency":"6"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"6"
+        },
+        {          "Word":"depressed",
+          "Frequency":"6"
+        },
+        {          "Word":"lmfaoooooooooooooooooo",
+          "Frequency":"4"
+        },
+        {          "Word":"ydoctor",
+          "Frequency":"6"
+        },
+        {          "Word":"yhoes",
+          "Frequency":"6"
+        }      ]   },  "Cluster260":
+  { 
+    "id":"260",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"shove",
+          "Frequency":"2"
+        }      ]   },  "Cluster261":
+  { 
+    "id":"261",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"depression",
+          "Frequency":"2"
+        },
+        {          "Word":"fibromyalgia",
+          "Frequency":"2"
+        },
+        {          "Word":"labeled",
+          "Frequency":"2"
+        },
+        {          "Word":"luck",
+          "Frequency":"2"
+        }      ]   },  "Cluster266":
+  { 
+    "id":"266",
+    "Document":
+      [
+        {          "Word":"amlodipine",
+          "Frequency":"2"
+        },
+        {          "Word":"hypertensive",
+          "Frequency":"2"
+        },
+        {          "Word":"officially",
+          "Frequency":"2"
+        },
+        {          "Word":"patientreceiving",
+          "Frequency":"2"
+        }      ]   },  "Cluster267":
+  { 
+    "id":"267",
+    "Document":
+      [
+        {          "Word":"ajrjwbxjsisidjdiei",
+          "Frequency":"2"
+        },
+        {          "Word":"blablabkabkablablablhxisid",
+          "Frequency":"2"
+        },
+        {          "Word":"blahblabla",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"depressed",
+          "Frequency":"2"
+        },
+        {          "Word":"help",
+          "Frequency":"2"
+        },
+        {          "Word":"jwiwidhjsjaisoosododo",
+          "Frequency":"2"
+        }      ]   },  "Cluster264":
+  { 
+    "id":"264",
+    "Document":
+      [
+        {          "Word":"commercial",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"3"
+        },
+        {          "Word":"need",
+          "Frequency":"2"
+        },
+        {          "Word":"think",
+          "Frequency":"2"
+        },
+        {          "Word":"thru",
+          "Frequency":"2"
+        }      ]   },  "Cluster265":
+  { 
+    "id":"265",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"depression",
+          "Frequency":"2"
+        },
+        {          "Word":"help",
+          "Frequency":"2"
+        },
+        {          "Word":"hurts",
+          "Frequency":"2"
+        },
+        {          "Word":"jingle",
+          "Frequency":"2"
+        },
+        {          "Word":"see",
+          "Frequency":"2"
+        }      ]   },  "Cluster270":
+  { 
+    "id":"270",
+    "Document":
+      [
+        {          "Word":"commercials",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"depress",
+          "Frequency":"2"
+        },
+        {          "Word":"undepressed",
+          "Frequency":"2"
+        }      ]   },  "Cluster271":
+  { 
+    "id":"271",
+    "Document":
+      [
+        {          "Word":"azordan",
+          "Frequency":"2"
+        },
+        {          "Word":"denli",
+          "Frequency":"2"
+        },
+        {          "Word":"erasmus",
+          "Frequency":"2"
+        },
+        {          "Word":"gebertesim",
+          "Frequency":"2"
+        },
+        {          "Word":"geliyo",
+          "Frequency":"2"
+        },
+        {          "Word":"hatta",
+          "Frequency":"2"
+        },
+        {          "Word":"rencilerine",
+          "Frequency":"2"
+        },
+        {          "Word":"stanbulgiden",
+          "Frequency":"2"
+        }      ]   },  "Cluster268":
+  { 
+    "id":"268",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"online",
+          "Frequency":"2"
+        },
+        {          "Word":"reputation",
+          "Frequency":"2"
+        }      ]   },  "Cluster269":
+  { 
+    "id":"269",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"help",
+          "Frequency":"2"
+        },
+        {          "Word":"jilllionairee",
+          "Frequency":"2"
+        }      ]   },  "Cluster288":
+  { 
+    "id":"288",
+    "Document":
+      [
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"more",
+          "Frequency":"2"
+        },
+        {          "Word":"reset",
+          "Frequency":"2"
+        },
+        {          "Word":"shakeology",
+          "Frequency":"2"
+        },
+        {          "Word":"thanks",
+          "Frequency":"2"
+        },
+        {          "Word":"ultimate",
+          "Frequency":"2"
+        }      ]   },  "Cluster289":
+  { 
+    "id":"289",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"hate",
+          "Frequency":"2"
+        },
+        {          "Word":"time",
+          "Frequency":"2"
+        },
+        {          "Word":"vomit",
+          "Frequency":"2"
+        }      ]   },  "Cluster290":
+  { 
+    "id":"290",
+    "Document":
+      [
+        {          "Word":"weeeee",
+          "Frequency":"2"
+        }      ]   },  "Cluster291":
+  { 
+    "id":"291",
+    "Document":
+      [
+        {          "Word":"missasham",
+          "Frequency":"2"
+        }      ]   },  "Cluster292":
+  { 
+    "id":"292",
+    "Document":
+      [
+        {          "Word":"azor",
+          "Frequency":"2"
+        },
+        {          "Word":"cest",
+          "Frequency":"2"
+        },
+        {          "Word":"izor",
+          "Frequency":"2"
+        },
+        {          "Word":"mdrrr",
+          "Frequency":"2"
+        },
+        {          "Word":"meme",
+          "Frequency":"2"
+        },
+        {          "Word":"mtu",
+          "Frequency":"2"
+        },
+        {          "Word":"toi",
+          "Frequency":"2"
+        }      ]   },  "Cluster293":
+  { 
+    "id":"293",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"multivitamins",
+          "Frequency":"2"
+        },
+        {          "Word":"prozac",
+          "Frequency":"2"
+        }      ]   },  "Cluster294":
+  { 
+    "id":"294",
+    "Document":
+      [
+        {          "Word":"compulsory",
+          "Frequency":"2"
+        },
+        {          "Word":"drugs",
+          "Frequency":"2"
+        },
+        {          "Word":"generic",
+          "Frequency":"2"
+        },
+        {          "Word":"licensing",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"mired",
+          "Frequency":"2"
+        },
+        {          "Word":"quagmires",
+          "Frequency":"2"
+        },
+        {          "Word":"remains",
+          "Frequency":"2"
+        }      ]   },  "Cluster295":
+  { 
+    "id":"295",
+    "Document":
+      [
+        {          "Word":"agitao",
+          "Frequency":"2"
+        },
+        {          "Word":"ansiedade",
+          "Frequency":"2"
+        },
+        {          "Word":"cansaofadiga",
+          "Frequency":"2"
+        },
+        {          "Word":"colaterais",
+          "Frequency":"2"
+        },
+        {          "Word":"comuns",
+          "Frequency":"2"
+        },
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"duloxetina",
+          "Frequency":"2"
+        },
+        {          "Word":"efeitos",
+          "Frequency":"2"
+        },
+        {          "Word":"febre",
+          "Frequency":"2"
+        },
+        {          "Word":"fraqueza",
+          "Frequency":"2"
+        },
+        {          "Word":"nuseas",
+          "Frequency":"2"
+        },
+        {          "Word":"sonolncia",
+          "Frequency":"2"
+        }      ]   }
+}

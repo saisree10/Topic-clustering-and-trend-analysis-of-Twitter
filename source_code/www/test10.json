@@ -1,0 +1,62 @@
+{
+  "Cluster0":
+  { 
+    "id":"0",
+   "WordCount":  "9", 
+" TweetCount":" 2",
+    "Document":
+      [
+        {          "Word":"generic",
+          "Frequency":"2"
+        },
+        {          "Word":"legal",
+          "Frequency":"2"
+        },
+        {          "Word":"lipitor",
+          "Frequency":"2"
+        },
+        {          "Word":"minces",
+          "Frequency":"2"
+        },
+        {          "Word":"over",
+          "Frequency":"2"
+        },
+        {          "Word":"ranbaxy",
+          "Frequency":"2"
+        },
+        {          "Word":"recall",
+          "Frequency":"2"
+        },
+        {          "Word":"slugfest",
+          "Frequency":"2"
+        },
+        {          "Word":"words",
+          "Frequency":"2"
+        }      ],    "Elements":
+      [
+               { "id": "3",
+                 "Tweet": "Ranbaxy minces no words in legal slugfest over generic Lipitor recall http://t.co/CvGpwzeeNk "
+               },
+               { "id": "3",
+                 "Tweet": "Ranbaxy minces no words in legal slugfest over generic Lipitor recall http://t.co/CvGpwzeeNk "
+               }      ]   },  "Cluster1":
+  { 
+    "id":"1",
+   "WordCount":  "2", 
+" TweetCount":" 2",
+    "Document":
+      [
+        {          "Word":"cymbalta",
+          "Frequency":"2"
+        },
+        {          "Word":"take",
+          "Frequency":"2"
+        }      ],    "Elements":
+      [
+               { "id": "7",
+                 "Tweet": "Or take cymbalta "
+               },
+               { "id": "7",
+                 "Tweet": "Or take cymbalta "
+               }      ]   }
+}

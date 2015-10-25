@@ -1,0 +1,279 @@
+{
+  "Cluster1":
+  {
+    "id":"1",
+    "Document":
+      [
+        { "TIME":"03-15","Frequency":"14"
+        },
+	{ "TIME":"02-22","Frequency":"200"
+        },
+        {"TIME":"03-16","Frequency":"8"
+        },
+        { "TIME":"03-17","Frequency":"140"
+        },
+        { "TIME":"03-18","Frequency":"22"
+        },
+        { "TIME":"03-19","Frequency":"3"
+        },
+        { "TIME":"03-20","Frequency":"14"
+        },
+        { "TIME":"03-21","Frequency":"12"
+        },
+        { "TIME":"03-22","Frequency":"9"
+        },
+        { "TIME":"03-23","Frequency":"7"
+        },
+        { "TIME":"03-24","Frequency":"12"
+        },
+        { "TIME":"03-25","Frequency":"11"
+        },
+        { "TIME":"03-26","Frequency":"18"
+        },
+        { "TIME":"03-27","Frequency":"8"
+        },
+        { "TIME":"03-28","Frequency":"5"
+        },
+        { "TIME":"03-29","Frequency":"68"
+        },
+        {"TIME":"03-30","Frequency":"8"
+        },
+        {"TIME":"03-31","Frequency":"8"
+        },
+        {"TIME":"04-01","Frequency":"68"
+        },
+        {"TIME":"04-02","Frequency":"14"
+        },
+        {"TIME":"04-03","Frequency":"11"
+        },
+        { "TIME":"04-04","Frequency":"200"
+        },
+        {"TIME":"04-05","Frequency":"15"
+        },
+        {"TIME":"04-06","Frequency":"7"
+        },
+        {          "TIME":"04-07",
+          "Frequency":"70"
+        },
+        {          "TIME":"04-08",
+          "Frequency":"20"
+        },
+        {          "TIME":"04-09",
+          "Frequency":"12"
+        },
+        {          "TIME":"04-10",
+          "Frequency":"142"
+        },
+        {          "TIME":"04-11",
+          "Frequency":"12"
+        },
+        {          "TIME":"04-12",
+          "Frequency":"12"
+        },
+        {          "TIME":"04-13",
+          "Frequency":"18"
+        },
+        {          "TIME":"04-14",
+          "Frequency":"5"
+        },
+        {          "TIME":"04-15",
+          "Frequency":"23"
+        },
+        {          "TIME":"04-16",
+          "Frequency":"11"
+        },
+        {          "TIME":"04-17",
+          "Frequency":"13"
+        },
+        {          "TIME":"04-18",
+          "Frequency":"8"
+        },
+        {          "TIME":"04-19",
+          "Frequency":"65"
+        },
+        {          "TIME":"04-20",
+          "Frequency":"8"
+        },
+        {          "TIME":"04-21",
+          "Frequency":"13"
+        },
+        {          "TIME":"04-22",
+          "Frequency":"11"
+        },
+        {          "TIME":"04-23",
+          "Frequency":"9"
+        },
+        {          "TIME":"04-24",
+          "Frequency":"109"
+        },
+        {          "TIME":"04-25",
+          "Frequency":"55"
+        },
+        {          "TIME":"04-26",
+          "Frequency":"6"
+        },
+        {          "TIME":"04-27",
+          "Frequency":"9"
+        },
+        {          "TIME":"04-28",
+          "Frequency":"73"
+        },
+        {          "TIME":"04-29",
+          "Frequency":"26"
+        },
+        {          "TIME":"04-30",
+          "Frequency":"23"
+        }
+        
+           ]   },
+
+"Cluster10":
+  {
+    "id":"10",
+    "Document":
+      [
+        {          "TIME":"02-24",
+          "Frequency":"2"
+        },
+        {          "TIME":"02-25",
+          "Frequency":"2"
+        },
+{          "TIME":"02-27",
+          "Frequency":"2"
+        },
+        {          "TIME":"02-27",
+          "Frequency":"2"
+        },
+        {          "TIME":"02-28",
+          "Frequency":"2"
+        },
+        {          "TIME":"03-01",
+          "Frequency":"3"
+        },
+        {          "TIME":"03-02",
+          "Frequency":"2"
+        },
+        {          "TIME":"03-03",
+          "Frequency":"1"
+        },
+        {          "TIME":"03-04",
+          "Frequency":"3"
+        },
+        {          "TIME":"03-05",
+          "Frequency":"2"
+        },
+        {          "TIME":"03-06",
+          "Frequency":"1"
+        },
+        {          "TIME":"03-07",
+          "Frequency":"3"
+        },
+        {          "TIME":"03-08",
+          "Frequency":"3"
+        },
+        {          "TIME":"03-11",
+          "Frequency":"4"
+        },
+        {          "TIME":"03-12",
+          "Frequency":"1"
+        },
+        {          "TIME":"03-15",
+          "Frequency":"1"
+        },
+        {          "TIME":"03-16",
+          "Frequency":"1"
+        },
+        {          "TIME":"03-17",
+          "Frequency":"2"
+        },
+        {          "TIME":"03-19",
+          "Frequency":"1"
+        },
+        {          "TIME":"03-22",
+          "Frequency":"3"
+        },
+        {          "TIME":"03-23",
+          "Frequency":"1"
+        },
+        {          "TIME":"03-24",
+          "Frequency":"1"
+        },
+        {          "TIME":"03-26",
+          "Frequency":"2"
+        },
+        {          "TIME":"03-27",
+          "Frequency":"3"
+        },
+        {          "TIME":"03-28",
+          "Frequency":"1"
+        },
+        {          "TIME":"03-30",
+          "Frequency":"1"
+        },
+        {          "TIME":"03-31",
+          "Frequency":"2"
+        },
+        {          "TIME":"04-02",
+          "Frequency":"1"
+        },
+        {          "TIME":"04-04",
+          "Frequency":"2"
+        },
+        {          "TIME":"04-05",
+          "Frequency":"1"
+        },
+        {          "TIME":"04-06",
+          "Frequency":"2"
+        },
+        {          "TIME":"04-07",
+          "Frequency":"2"
+        },
+        {          "TIME":"04-08",
+          "Frequency":"1"
+        },
+        {          "TIME":"04-09",
+          "Frequency":"1"
+        },
+        {          "TIME":"04-10",
+          "Frequency":"1"
+        },
+        {          "TIME":"04-13",
+          "Frequency":"2"
+        },
+        {          "TIME":"04-14",
+          "Frequency":"1"
+        },
+        {          "TIME":"04-16",
+          "Frequency":"3"
+        },
+        {          "TIME":"04-17",
+          "Frequency":"3"
+        },
+        {          "TIME":"04-20",
+          "Frequency":"1"
+        },
+        {          "TIME":"04-22",
+          "Frequency":"2"
+        },
+        {          "TIME":"04-23",
+          "Frequency":"4"
+        },
+        {          "TIME":"04-24",
+          "Frequency":"2"
+        },
+        {          "TIME":"04-26",
+          "Frequency":"1"
+        },
+        {          "TIME":"04-28",
+          "Frequency":"2"
+        },
+        {          "TIME":"04-29",
+          "Frequency":"1"
+        },
+        {          "TIME":"04-30",
+          "Frequency":"1"
+        }
+	
+           ]   }
+}
+
